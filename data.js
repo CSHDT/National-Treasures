@@ -1069,94 +1069,94 @@ Bài bi minh tháp Sùng Thiện Diên Linh núi Long Đội của vua thứ tư
   Nghìn năm một thuở, dốc hết lòng ngu. 
   Gượng cầm ngòi bút, đánh bạo dâng bày.
 Lời minh rằng:
-                                Rất diệu rất tĩnh,			    [Cái đạo] rất mầu nhiệm rất tĩnh tịch,
-                                Không tượng không hình.	    Không có tượng cũng không có hình
-                                Gượng tự đặt tên,		            Gượng đặt ra cái tên là "đạo"
-                                Hy Dy ở đó.			                    Là cái mà không thể nghe thấy, nhìn thấy được
-                                Đạm bạc chẳng đợi,		            Thuần phác chẳng đợi
-                                Sinh trước đất trời.		            Sinh ra trước cả đất trời.
-                                Nhuộm mà chẳng đen,		    Nhuộm mà chẳng bị đen đi
-                                Mài mà không khuyết.		    Mài mà không bị mòn mất.
-                                Thuần túy tinh nhất,		    Thuần túy tinh chất,
-                                Có đấng Tiên vàng,	           	    Bèn có vị tiên vàng,
-                                Sinh nơi Tây Trúc.	           	    Giáng sinh ở nước Tây Trúc. 
-                                Mười hiệu đầy đủ,		            [Ngài] có mười danh hiệu đầy đủ
-                                Tứ hoằng rộng ban.		      Mở rộng bốn thệ nguyện lớn.
-                                Tu đủ lục độ,			            Đều tu hết sáu mức độ,
-                                Học sâu đạo Thiền.		    Nghiên cứu cái vị gốc của đạo.
-                                [………thương…….]		    [………thương…….]
-                                Giác đuổi hư ngụy,		    Giác ngộ [nên đã] dẹp được hết điều hư ngụy,
-                                Lập giáo diệu huyền.		    Dựng lập nên giáo pháp thanh tịnh.
-                                Đạo quy chân tính,		    Đạo quy về với cái bản tính chân thường,
-                                Khiến lặng như non.		    Khiến chân tính ấy tĩnh lặng như núi. 
-                                Ba cõi chiêm ngưỡng,		    Ba giới [thấy vậy] thảy đều ngưỡng vọng ngài,
-                                Mười phương hợp duyên.	    Mười phương [thấy vậy] đều hồi hướng về.
-                                Thầy vâng mệnh Phật,		    Phật Thích Ca vâng mệnh đấng Từ Nhan,
-                                Cứu vớt dân lành.		    Đã thi hành việc cứu vớt, tế độ.
-                                Băng tan, bọt nổi,		    [Thấy đời người tựa như ] bọt nổi, băng tan, 
-                                Chán ở nhân hoàn.		    [Nên ngài] chán cõi nhân gian.
-                                Cầu vồng rực rỡ,			    Cầu vồng trắng vút lên ánh sáng,
-                                Phủi áo về ngàn.		    Phất áo ở chốn rừng song thụ.
-                                Kim dung dấu bóng,		    Dung nhan vàng xế bóng,
-                                Sáp lan nhuần thân.		    Sáp lan tẩm nhuần thân.
-                                Chiên đàn làm củi,		    Gỗ chiên đàn làm củi,
-                                Khói vương hỏa đàn.		    Lửa hỏa thiêu, khói lan.
-                                Lửa thiêu vừa lụi,		    Lễ trà tỳ vừa dứt,		
-                                Xá lị ngưng thành.		    Xá lị đã ngưng kết nên.
-                                Đầy mâm đầy chậu,		    Đầy mâm đầy bàn,
-                                Năm sắc rỡ ràng.			    Hoặc rạng năm sắc,
-                                Hoặc thành chín vẻ,		    Hoặc rõ chín màu.
-                                Lung linh chói chang.		    Lấp lánh chói sáng.
-                                Thiên cung hoàn vũ,		    Trong cõi âm giới,
-                                Âm giới dương gian.		    Cung trời, nhân gian.
-                                Bốn loại Quốc vương,		    Bốn loại quốc vương,
-                                Cùng về nhộn nhịp.		    Thì cùng tụ họp về.
-                                Tranh đua sức mạnh,		    Ganh đua sức hùng cường,
-                                Xưng tướng xưng hùng.		    Ai nấy đều là danh tướng.
-                                Hòm vàng năm lớp,		    Hòm vàng năm lớp,
-                                Êm bánh xe rồng.		    Bánh xe rồng đi êm đềm.
-                                Tháp cao nghiêm dựng,		    Kính cẩn dựng tháp báu cao ngất,
-                                Từ nay vô cùng.			    Từ đó về sau.
-                                Tháng dài năm rộng,		    Năm tháng lâu dài,
-                                Sùng phụng tôn thờ.		    Không đời nào là không phụng thờ.
-                                Đến triết vương ta,		    Đến bậc triết vương triều ta,
-                                Truyền giữ càng quý.		    Truyền đạo, hộ pháp càng thêm quý trọng,
-                                Theo chí người xưa,		    Noi theo ý nguyện sùng đạo của người trước,
-                                Hướng về Long Đội.		    Dõi về núi Long Đội,
-                                Điện tháp hùng vĩ,		    Dựng lên chùa tháp hùng vỹ diệu kỳ,
-                                Cao vượt trùng mây.		    Cao vút mất tầng mây.
-                                Tầng trên cất giữ,		    Tầng trên cùng thì cất chứa xá lị,
-                                Tuôn ánh thần quang.		    Ánh sáng thần kỳ tỏa ra chói lọi.
-                                Điềm sinh vua sáng,		    Tỏ điềm lành minh quân,
-                                Sông núi đẹp tươi.		    Núi sông thanh tú.
-                                Mây ráng hòa hợp,		     Ráng khói ngùn ngụt,
-                                Cách biệt bụi trần.		    Xa cách bụi trần.
-                                Vua ghi tên đẹp,			    Ngự đề tên đẹp,
-                                “Sùng Thiện Diên Linh”.	    Sùng Thiện Diên Linh.
-                                Cầu dài tuổi thọ,			    Cầu thọ càng thọ,
-                                Tháng tốt ngày lành.		    Giờ đẹp ngày lành.
-                                Họp nhau khánh chúc,		    Cõi phúc viên mãn,
-                                Quả phúc viên thành.		    Cùng nhau chúc tụng.
-                                Viếng chùa tấp nập,		    Tụ hội cảnh chùa,
-                                Mây tụ đỉnh non.		    Mây đậu trên đỉnh núi.
-                                Sáng lòng thanh tịnh,		    Lòng trong thanh tịnh,
-                                Đài nghê bước lên.		    Bước lên đài nghê.
-                                Rì rầm tụng niệm,		    Lầm rầm tụng niệm như tiếng thủy triều,
-                                Tụ hội trời, người.		    Tập hợp cõi trời lẫn cõi người,
+                                Rất diệu rất tĩnh,     		    [Cái đạo] rất mầu nhiệm rất tĩnh tịch,
+                                Không tượng không hình.		    Không có tượng cũng không có hình
+                                Gượng tự đặt tên,      		    Gượng đặt ra cái tên là "đạo"
+                                Hy Dy ở đó.            		    Là cái mà không thể nghe thấy, nhìn thấy được
+                                Đạm bạc chẳng đợi,     		    Thuần phác chẳng đợi
+                                Sinh trước đất trời.   		    Sinh ra trước cả đất trời.
+                                Nhuộm mà chẳng đen,    		    Nhuộm mà chẳng bị đen đi
+                                Mài mà không khuyết.   		    Mài mà không bị mòn mất.
+                                Thuần túy tinh nhất,   		    Thuần túy tinh chất,
+                                Có đấng Tiên vàng,     		    Bèn có vị tiên vàng,
+                                Sinh nơi Tây Trúc.     		    Giáng sinh ở nước Tây Trúc. 
+                                Mười hiệu đầy đủ,      		    [Ngài] có mười danh hiệu đầy đủ
+                                Tứ hoằng rộng ban.     		    Mở rộng bốn thệ nguyện lớn.
+                                Tu đủ lục độ,          		    Đều tu hết sáu mức độ,
+                                Học sâu đạo Thiền.     		    Nghiên cứu cái vị gốc của đạo.
+                                [………thương…….]         		    [………thương…….]
+                                Giác đuổi hư ngụy,     		    Giác ngộ [nên đã] dẹp được hết điều hư ngụy,
+                                Lập giáo diệu huyền.   		    Dựng lập nên giáo pháp thanh tịnh.
+                                Đạo quy chân tính,     		    Đạo quy về với cái bản tính chân thường,
+                                Khiến lặng như non.    		    Khiến chân tính ấy tĩnh lặng như núi. 
+                                Ba cõi chiêm ngưỡng,   		    Ba giới [thấy vậy] thảy đều ngưỡng vọng ngài,
+                                Mười phương hợp duyên. 		    Mười phương [thấy vậy] đều hồi hướng về.
+                                Thầy vâng mệnh Phật,   		    Phật Thích Ca vâng mệnh đấng Từ Nhan,
+                                Cứu vớt dân lành.      		    Đã thi hành việc cứu vớt, tế độ.
+                                Băng tan, bọt nổi,     		    [Thấy đời người tựa như ] bọt nổi, băng tan, 
+                                Chán ở nhân hoàn.      		    [Nên ngài] chán cõi nhân gian.
+                                Cầu vồng rực rỡ,       		    Cầu vồng trắng vút lên ánh sáng,
+                                Phủi áo về ngàn.       		    Phất áo ở chốn rừng song thụ.
+                                Kim dung dấu bóng,     		    Dung nhan vàng xế bóng,
+                                Sáp lan nhuần thân.    		    Sáp lan tẩm nhuần thân.
+                                Chiên đàn làm củi,     		    Gỗ chiên đàn làm củi,
+                                Khói vương hỏa đàn.    		    Lửa hỏa thiêu, khói lan.
+                                Lửa thiêu vừa lụi,     		    Lễ trà tỳ vừa dứt,		
+                                Xá lị ngưng thành.     		    Xá lị đã ngưng kết nên.
+                                Đầy mâm đầy chậu,      		    Đầy mâm đầy bàn,
+                                Năm sắc rỡ ràng.       		    Hoặc rạng năm sắc,
+                                Hoặc thành chín vẻ,    		    Hoặc rõ chín màu.
+                                Lung linh chói chang.  		    Lấp lánh chói sáng.
+                                Thiên cung hoàn vũ,    		    Trong cõi âm giới,
+                                Âm giới dương gian.    		    Cung trời, nhân gian.
+                                Bốn loại Quốc vương,   		    Bốn loại quốc vương,
+                                Cùng về nhộn nhịp.     		    Thì cùng tụ họp về.
+                                Tranh đua sức mạnh,    		    Ganh đua sức hùng cường,
+                                Xưng tướng xưng hùng.  		    Ai nấy đều là danh tướng.
+                                Hòm vàng năm lớp,      		    Hòm vàng năm lớp,
+                                Êm bánh xe rồng.       		    Bánh xe rồng đi êm đềm.
+                                Tháp cao nghiêm dựng,  		    Kính cẩn dựng tháp báu cao ngất,
+                                Từ nay vô cùng.        		    Từ đó về sau.
+                                Tháng dài năm rộng,    		    Năm tháng lâu dài,
+                                Sùng phụng tôn thờ.    		    Không đời nào là không phụng thờ.
+                                Đến triết vương ta,    		    Đến bậc triết vương triều ta,
+                                Truyền giữ càng quý.   		    Truyền đạo, hộ pháp càng thêm quý trọng,
+                                Theo chí người xưa,    		    Noi theo ý nguyện sùng đạo của người trước,
+                                Hướng về Long Đội.     		    Dõi về núi Long Đội,
+                                Điện tháp hùng vĩ,     		    Dựng lên chùa tháp hùng vỹ diệu kỳ,
+                                Cao vượt trùng mây.    		    Cao vút mất tầng mây.
+                                Tầng trên cất giữ,     		    Tầng trên cùng thì cất chứa xá lị,
+                                Tuôn ánh thần quang.   		    Ánh sáng thần kỳ tỏa ra chói lọi.
+                                Điềm sinh vua sáng,    		    Tỏ điềm lành minh quân,
+                                Sông núi đẹp tươi.     		    Núi sông thanh tú.
+                                Mây ráng hòa hợp,      		    Ráng khói ngùn ngụt,
+                                Cách biệt bụi trần.    		    Xa cách bụi trần.
+                                Vua ghi tên đẹp,       		    Ngự đề tên đẹp,
+                                “Sùng Thiện Diên Linh”.		    Sùng Thiện Diên Linh.
+                                Cầu dài tuổi thọ,      		    Cầu thọ càng thọ,
+                                Tháng tốt ngày lành.   		    Giờ đẹp ngày lành.
+                                Họp nhau khánh chúc,   		    Cõi phúc viên mãn,
+                                Quả phúc viên thành.   		    Cùng nhau chúc tụng.
+                                Viếng chùa tấp nập,    		    Tụ hội cảnh chùa,
+                                Mây tụ đỉnh non.       		    Mây đậu trên đỉnh núi.
+                                Sáng lòng thanh tịnh,  		    Lòng trong thanh tịnh,
+                                Đài nghê bước lên.     		    Bước lên đài nghê.
+                                Rì rầm tụng niệm,      		    Lầm rầm tụng niệm như tiếng thủy triều,
+                                Tụ hội trời, người.    		    Tập hợp cõi trời lẫn cõi người,
                                 Trống chuông gióng giả,		    Chuông trống náo nức, rộn rã,
-                                Hương trầm ngạt ngào.		    Hương trầm cuồn cuộn,
-                                Gấm vóc khoe xuân,		    Gấm vóc tranh đua vẻ xuân.
-                                Phúc tuệ nay hưởng.		    Được thừa hưởng phúc đức và trí tuệ này.
-                                Tù ngục cùm gông,		    Những kẻ bị tù ngục, trói cùm,
-                                Khổ đau đều thoát.		    Đều thoát u mê, ngu độn.
-                                Thần được chép việc,		    Thầm trộm chép lại việc lành,
-                                Học chẳng là bao.		    Học hành chưa được ba đông [ba năm].
-                                Tài kia không đủ,		    Tài cũng chẳng đủ đọc hết năm xe sách.
-                                Ghi sáng công vua.		    Công nghiệp của nhà vua rực rỡ,
-                                Mở tung mọi cửa,		    Mở hết các cửa,
-                                Bốn biển về chung.		    Bốn bể đều hội về cùng.
-                                Ca ngợi vua ta,			      Cùng ca ngợi vua ta,
-                                Dài cùng trời đất.		    Lâu dài như đất trời.
+                                Hương trầm ngạt ngào.  		    Hương trầm cuồn cuộn,
+                                Gấm vóc khoe xuân,     		    Gấm vóc tranh đua vẻ xuân.
+                                Phúc tuệ nay hưởng.    		    Được thừa hưởng phúc đức và trí tuệ này.
+                                Tù ngục cùm gông,      		    Những kẻ bị tù ngục, trói cùm,
+                                Khổ đau đều thoát.     		    Đều thoát u mê, ngu độn.
+                                Thần được chép việc,   		    Thầm trộm chép lại việc lành,
+                                Học chẳng là bao.      		    Học hành chưa được ba đông [ba năm].
+                                Tài kia không đủ,      		    Tài cũng chẳng đủ đọc hết năm xe sách.
+                                Ghi sáng công vua.     		    Công nghiệp của nhà vua rực rỡ,
+                                Mở tung mọi cửa,       		    Mở hết các cửa,
+                                Bốn biển về chung.     		    Bốn bể đều hội về cùng.
+                                Ca ngợi vua ta,        		    Cùng ca ngợi vua ta,
+                                Dài cùng trời đất.     		    Lâu dài như đất trời.
 Dựng bia ngày 6 tháng Bảy năm Tân sửu, niên hiệu Thiên Phù Duệ Vũ thứ 2 (1121).
 Nguyễn Công Bật, giữ chức Triều liệt Hình bộ Thượng thư, Binh bộ Viên ngoại lang, Đồng tri Phiên công viện chư sự, vâng sắc chỉ soạn văn bia.
 Lý Bảo Cung giữ chức Hữu thị lang, Thượng thư, Công bộ Viên ngoại lang, Đồng tri Thẩm hình viện sự, Thượng khinh xa đô úy, Kim tử ngư đại, vâng sắc chỉ viết chữ
