@@ -479,7 +479,8 @@ const TREASURES = [
     badge: "Ancient Stele",
     type: "academic",
     year: "năm 601",
-    desc: "A rare stone stele dated to the year 601 AD, one of the oldest surviving inscribed steles in Vietnam."
+    desc: "A rare stone stele dated to the year 601 AD, one of the oldest surviving inscribed steles in Vietnam.",
+    desc_vi: ""
   },
   {
     id: 38,
