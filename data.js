@@ -499,7 +499,7 @@ const TREASURES = [
     name: "Bia Sùng Thiện Diên Linh",
     english: "Sung Thien Dien Linh Stele",
     location: "Chùa Đọi Sơn, thị xã Duy Tiên, tỉnh Hà Nam",
-    lat: 20.585257032168478, lng: 105.97632098524893, 
+    lat: 20.584666401385462, lng: 105.97506476940512, 
     category: "religious",
     badge: "Lý Dynasty Stele",
     type: "academic",
@@ -509,661 +509,660 @@ const TREASURES = [
     model3d_author: "Atlantic Truong | Vietnam 3D",
     model3d_author_url: "https://sketchfab.com/atlantictruong19",
     script: {
-      han: `皇越李家第四帝龍隊山崇善延齡塔碑銘御書飛帛碑額。
+      han: `            <strong>皇越李家第四帝龍隊山崇善延齡塔碑銘御書飛帛碑額</strong>
 
-[夫妙體玄寂，靈光兮非中非外，卓爾於]五太之初；大用繁滋，浩博兮唯形唯顯，森[然於一虛之裏。勿兆朕可測，靡影跡可求。包天壤廣大之容，詎能參覲；混日月光華之彩，寧假尋觀。隨榦運造化樞機，彼端然在；縱推蕩陰陽舒豫，祕要偏幽。豈非玄寂歟?
-上下之紀綱既立;埏埴之規模[聿]興。四序行而玉 燭調;七政齊而璇璣運。雜沓萬類;叢挫眾緣。生生由是著名;蚩蚩以之遂性。不曰繁滋乎? 如此則迅機宏辯，原始要終,不亦難哉!
-唯我大雄氏:中古應 運; 西乾顯靈。完三千之威儀;興四八之妙相。十號備具;百福莊嚴。究彼精微;明茲純粹。悼群生之醉識;悲四類之迷真。衣中忘寶而不自知; 篋裏藏蛇亦非警悟。由是，設醍醐之妙教; 飫 積歲之饑虛。燃燦爛之明燈;燭彌年之昏暗。俾浪心之天真得定;遣妄性之蓬行立安。故,三界皈依;十方回向。住塵世七十九歲;權設法八萬千門。謂:跡既合塵; 身寧隨幻。遂乃,金容掩色於雙樹;白虹騰耀於重天。兜羅綿裸其神姿;紫蘭膏潤其香體。信心戀慕，奉栴檀而作薪;覺性靈通，應闍維而火化。荼毗煙了;舍利凝成。類明月之產蚌胎;肖露珠之瑩金掌。或五彩而照耀;或九色而澄徹。盈盤滿斛;異俗超凡。人主龍王，陰間天上, 時皆造集，覺相分俵。珍惜以寶函重貯;慎守則提刃經巡。各擇其安，靡 常厥所。或香山頂上，人世塵中; 或朝野空間，滄溟宮里。堵波覺梵，神物高藏; 沿古處今，曆傳罔替。興功繼績，不亦盛歟 ?
-恭唯李家:聖憲體道丶聖文神武丶英格民物丶 萬靈照應丶永隆元化丶聰明廣運丶仁智懿義丶純誠明孝皇帝陛下: 堪輿鍾粹，日月儲精。慶兆先符;休徵預啟。父皇入夢，殊邦獻雪象六牙;母后有娠，飛閣廕黃龍五彩。斯則陛下入胎之兆也。
-景星瑩現，銀河應眉月之光; 慶雲曉飛，丹陛舒霜綃之彩。喜氣俄騰于霄漢;異香散靄於宮圍。十月處胎而周期;三陽建寅而誕聖。斯則陛下降誕之徵也。
-悼歲而甫登大寶，天地相扶; 勝衣而統御寰區，人神咸贊。龍睛鳳目;玉潔冰姿。眸澄而青白分明，異重瞳 於舜帝;耳壽而輪郭修廣，嗤三漏於夏王。形頎而長;足方而厚。玉理含其潤;珠庭耀其華。誠千載之英明;冠百王之奇秀。斯則陛下天表之端嚴也。
-惠周動植;智敏風雲。內典經書，精窮玄要;外權法術，總悉指歸。陶金石之英辭，光吞斗極;著殿塔之嘉號，懸照古今。精飛帛以通神;運御毫之絕妙。龍躍鳳翔之勢，法從玉手;鸞迴鵲返之形，體出宸心。雕金牌以置梵宮;鐫翠琰 以貽道觀。詩思撮陶鈞萬化;樂譜和唐梵同音。書窮究於玄機;射至精於妙術。斯則陛下博通於才藝也。
-中秋清景，萬務休時。孝誠展而潔珍羞;盛禮陳而祠聖考。復於三旦;大啟駕儀。乘寶輦而出九重;陟金輅而馳黃道。雉扇擁於兩際;銀綱護於四圍。黃蓋浮空;彩 旗 慧日。星馳柳陌;斗轉花衢。向長瀘之碧川;御靈光之寶殿。千艘而中流電速;萬豉而溢水雷鳴。玉廊宴方伯之會同;丹陛奏仙吏之章表。波心蕩漾，浮金鰲以負三峰;水面夷猶，露甲文而敷四足。轉眸瞥岸;呀口噴津。向冕旒而仰觀;對當空而俯察。望嵯峨之峭壁;奏洋溢之雲韶。洞戶爭開;神仙競出。蓋天上之皃態;豈塵世之嬌
-姿。翹纖手以獻迴風;顰翠眉而歌休運。珍禽作隊，盡率舞以趨蹌;瑞鹿成群，自著行而踴躍。及,金烏西照;寶輅將還。到如砥之途中;留廣天之境外。向崇臺而回陸地，背贔 負以載三山; 對朱盤而招頭，將安身而曳[…]尾。鳩過雲而嘹亮;虎下磴而生獰。奮迅雄威;噬齧小獸。會上林子弟，持翟 羽朱竿。厲聲驅以進帝前，築場闈而守獵界。彎弧趨射，拔劍馳循。人奮勇於片辰;士爭迎於當日。懷鄰國而攜耆提幼;來列土而登拽緣墻。屬目觀光;翹心願見。處處之盡妝羅綺;年年之三日懽 娛。躋人世於壺天;置兆民於樂國。斯則陛下撥覽而新制金鼇也。
-顯聖謀之神妙;制御舶之精奇。著狀設連艦壯雄;立格造千艘秀麗。架重霄之樓閣;崇危峭之檐楹。中嚴黼座彌高，豁聰睿明之遐鋻;旁展繡例光燦，廣列嬪綵之親倍。傾萬寶以嚴粧;備三宮之房室。中流曉漾，疑蜃吐以橫波;隈岸晚停，擬鼇擎之聳漢。斯則陛下新制御舶之巧也。
-廣運神功;弘推聖斷。精修勝事;勤至良緣。建廣昭之登 (燈)台，向端門之廷上。中標一幹，外設七層。虯弓出而捧金蓮; 縫紗籠而獲蘭焰。蘊機微於地下，圓轉如輪; 爍光彩於天中，瑩煌似日。復有:嚴彰寶聖;金殿珍叢。自睿意妝成;坐金色相斗。狀寫靈文;形鋪奇麗。又有:花樓兩座，綰以金鍾。刻釋子而體挂田衣，運幽機而播棰如擊;聞鳴鞘而肅儀轉面，睹英聖而稽首曲躬。出自睿謀，宛如動靜。復有:耀七寶之萃堵，作一行而互排。端中則黃金一峰，坐多寶如來之瑞相，列幾層法駕之真形。檐光爍晨旭之輝;瓦色開碧雲之彩。其次, 則白銀二座，左置阿彌陀之真容，右貯妙色身之粹質。峭舒雄勢;喬奮飛甍。聆朧欺瑞雪之融;燦爛奪秋蟾之潔。更次，則烏文二座。左安廣博身之慈顏; 右備離怖畏之妙相。既已圓高閣;又更起危層。蓋迭素瓊;壁鐫龍狀。又次，則象齒二座。左稀甘露王之形儀;右儼寶勝佛之睟睦。切磋素質;崇架霜楹。棐稜雕絲玉之英;間隙剪靈犀之角。兼精制記辭之美;各鐫于蓮座之傍。披雪精誠，永昭厥後。而又:寫九天以五色;刻四柱以雙懸。沿邊而瑩點千燈，兩面而煉妝金彩。可謂: 絕古今之制度;超造化之生成。傾天下之雍和, 夜為晝賞;暢世間之心目，老換童顏。斯則陛下巧制勝緣之功也。
-精崇皇覺;篤慕勝因。向西禁之名園;廣延[祐]之光寺。跡從前之舊制;出聖意之新謀。鑿靈沼之芳池, 而池中湧一石幹。幹上坼千葉蓮花，花上而橋安紺殿。殿中坐金相之能仁。 池之外周遶畫廊, 環廊之外又疏碧池，每架飛橋以通之。前橋之庭，左右甃琉璃寶塔。以月之朔旦，以年之游春，親乘玉輦，來啟清筳。花香設祺祚之儀;盆盥陳浴佛之式。粧精禁之相於五眾，或袒露進退以為容; 作天王之隊於四方，齊擎器徘徊而獻舞。精勤靡 怠，敬奉移時。而,玄造靈通，咸皆扶祐。斯則陛下制梵剎以祈福壽也。
-上方垂拱;下正弼鄰。偶邊吏之更常，成乖違之有釁。星馳御敵;雷奮挫威。邕州軍之眾億千，潰矣猶風卷翳; 如月江之師百萬，渙然若日消冰。在閫外之將自施;豈宸衷之謀所決。暨後, 致皇極於穆清;躋生民於富壽。扇仁風以化率; 施惠澤以旁宣。乍制環王, 辭宮室而趨庭為庶; 羅于國主, 弃 山河而詣闕稱臣。篤意慕羶;傾懷就日。頃者,磨沙蠻獠，恃險江山。狼獷生心，不循皇化。聖則一怒，大駕啟行。猛將雲隨;謀臣雨會。布師旅於荒野;襲梟獍之頑民。盡酋長成擒;大魁渠俘虜。其餘則:血膏草莽，肉委林泉。縱雄虎而扼鼠,奚難; 翻 巨石而碎卵,何易! 斯則陛下耀武通規也。
-黔黎熙洽;兆庶清夷。春覲奉琛;秋朝述職。會萬國諸侯而晏賞;構眾仙三級之寶臺。銀瓦疊而光照穹旻;金蓮累而鋪陳寶相。上頂則靈禽聳立;四稜則鱗長竞驤 。蓋飾七珍; 帶妝百寶。上階正位而聖明端拱，中級下等而仙妓迴環。庭列伶官，並皆蹈躍。奮天才而成妙曲; 慰群辟而遠還酆。凌空而聲遏行雲;和管而響滋睿渥。斯則陛下修文至德也。
-為天地之真主;究造化之幽機。運智變通;顯謀充塞。精外方之音響;譯諸技之要端。作妙舞之絕倫;示昌朝之同樂。復制:《降雲仙子》而歌聲響亮，贊哲后之元功; 《出蓮寶婺》而弱質蹁躚，慶深仁之美化。斯則陛下之大妙算也。
-德同高厚，則五緯昭符; 惠及飛潛，則萬靈薦祉。神龍二九，光復 於寶殿瓊丹; 雪象一千，呈祥於瑤墀禁御。彰大寶之可久;符純嘏之優隆。故,林顯奇姿;天昭靈狀。復現神象一頭，形質而魁梧異等;鼻額而妙顯神光。驗文彩而清淨有除; 稟聰明而炤彰無外。御號曰: 超群神象。優曇駢芳;舍利玉現。草木效祉;神物舒光。揭錫羡無窮;示垂鴻有慶。靈草兩現;皓鹿六臻。素糜獨來;玄麆 雙至。昭長承上帝之命;契永保旻天之休。紛糾呈妍;聯鑣顯麗。龜五色而千點; 蓮兩鏡而一莖。澤及淵泉，物方廌瑞。感黎氓之寧謐;昭社稷之益隆。月重輪於層霄;金發彩於幽澗 。明照臨於有截;彰宰斷於無垠。故,天象效祥;幽源薦祉。紫檳孤幹，繁長靈苗。侔眾國以衛中邦;類普天而扶元首。辰光九十;節屆五陽。鼠變霜毛;松生偃蓋。擬鶴巢而薦異;期玉兔以昭符。叶寰海之宴清;契兆民之輯睦。瓊鳩白雀而屢集;素鷸玉龍而始呈。舒潔淨之容儀，顯惟精惟一; 革真常之舊質，效克寬克仁。招搖淪,精白驥生;距柔毛,晶榮牛現。群雁集而觀光率賀;猛虎猾而顯世畏威。鳳子成雙;瑞雪深積。飄素霙之盈尺;徵一世之三登。綽異狀之九苞;著成行於群鷺。白慈鳥而競至;皓鵠鷸 以爭翔。彰返哺之精勤;感至孝之純厚。念經終軸而非匹;祝聖萬歲而是常。檳榔啣珠;楊枝洒玉。遶九龍之寶，禎奪好珠;長繁岐之姿，祥超異畝。
-懿夫, 承天地鴻休;紹祖宗景命。五十餘年而統化;百千諸夏以欽威。雨暘協時; 星辰順度。常念:農為治本;政必尚茲。雖歲歲躬行，意孜孜不怠。時會祥大慶九年夏五月日, 駕飛仙之鳳輦，漾耀寶之龍舟。日麗波平，潮回煙斂。歷河瀘之長派，見隊嶺之臨涯。雖聳勢嶙峋，到頂端平坦。使艤岸以維纜，詔從駕之群僚而謂之曰: 
-- 朕欲以茲山而經營梵福, 可得之乎?
-左右相率而奏曰:
-- 聞鄉老所傳: 斯山常以春品，旦覃恆雨以潤黔黎。宜可施功，樂成善果。
-兼請署其山曰:龍隊, 聖情允可。乃命日者，以辯方向。面對涇江，風靜而長舒碧練; 背分疊岫，雨消而濃綴藍光。 右控平原，望乾興之古塹; 左延流澮，會漠水以朝宗。載詔公輸，中分繩墨。施財以明功德，顧民資竭力林衡;運材以盡神奇，鳩工巧成城群匠。鏤貞玟 而作斗;琢翠碔以為楹。 涌矗漢之十三層;啟承風之四十戶。壁鐫龍窟;角挂金鈴。上層緘舍利琅函，佇放祥光於盛世; 絕頂置捧盤仙客，長承玉露於晴天。下層分八將魁梧，擁立則神人仗劍。其中座多寶如來之瑞相也: 弘深願力，寧泯全身。聽蓮偈而必簉威靈;與迦文而半分瑤座。挂珠幡之晃耀;懸寶蓋之玲瓏。階庭陞降而有差;廊廡左右而雙翼。次級, 左建四角宮，含雙龍而鎮地，負八將以朝天。揚氣概於名山;播聖功於後裔。右梵方礄龕室, 貯以賓頭和尚，放于麻黎山。受囑累於如來，為眾生而證福。
-下級, 前構陵漢閣:懸首山之彝器;縻碧海之鯨槌。撾 時韻溢於天程;聞處劍停於苦趣。環垣墉以嚴護，貯軒廡以鋪裝。造橋光啟其通衢，藝 松成行於兩界。竭精誠以崇妙果，希延鳳曆以長新; 窮詭制以疊危層，冀益睿齡之弥 遠。故御題曰: 崇善延齡寶塔。
-其塔經始於會祥大慶九年之夏，畢功於天符睿武二年之秋。因時隙而興營，逮豐登而設立。歷於三耕四稔 而後完焉。及慶成也:敕奉常以整駕; 感風伯以清塵。沉檀霧織於溪山; 幢幡霞爛於街道。鼓鐘喧沸;鐃磬匉訇。前道三寶雲車;後輾一人金輅。傾六宮朱翠;來萬國耆童。華宇前橫，鷲臺中敞。會方袍之潔行; 演覺帝之真詮。英聖凝旒，佇偈終而翹誠稽顙; 仙姬斂袂，聽軸盡而獻舞供酥。頒雪粒之香齋，飫充飢旅; 散泉流之圓寶，賙賑窮民。幽顯咸臻;天龍悉簉 。以:最上功力, 無邊福田。益贊皇綱，等圓方而共永; 將祈寶運，與日月而長清。早誕元娠，永膺曆數。期本支百世;冀社稷億齡。草偃多方; 葵傾萬國。臣民愛戴;祖考匡毘。神道冥扶; 天人咸贊。
-太祖，太宗，聖宗皇帝: 既定寰瀛，沓升霄漢, 憑茲勝利，永躡金蓮;皇妣扶聖靈仁太后:厭居人世，高馭煙霞, 沐此良因，超生淨土。大凡諸侯王宮妃等:精勵幽貞，燮和內治。彌展柔嘉之操 ; 益彰淑慎之誠。佇降前星;叶吹調律。末願: 黎民富庶;寰宇肅清。文軌同儀;華夷共貫。五行順序; 百穀豐登。塞絕煙塵;國無災癘。而臣，忝列雁序，濫廁儒林。紀事之成，實聖之巧。傾天亙地之功，雖有淵雲之才，班馬之學，亦難敘萬分之一焉。既又念: 葵藿 之纖卉; 日月之照臨。千載一時，罄愚何謬。強秉鈞毫，敢伸敘述。
-銘曰:
-至妙至寂，	無象無形。
-強自立名，	希夷必在。
-澹泊靡待，	先天地生。
-涅而不淄，	磨而不磷。
-純粹惟精，	粵有金仙。
-降跡竺乾，	十號俱備。
-四弘廣敷，	六度齊修。
-究斯元味，	[.] [.]傷[.]。
-覺逐浮偽，	設清淨教。
-道歸真性，	俾竫如山。
-三界瞻仰，	十方迴向。
-師奉慈顏，	拯濟既行。
-浮漚冰熯，	厭处人寰。
-白虹騰耀，	雙樹拂衣。
-金容晦影，	蘭膏潤身。
-栴檀作薪，	化火煙通。
-荼毗渙互，	舍利凝成。
-盈盤溢皿，	或炫五色。
-或顯九彩，	燁燁滎煌。
-陰界冥中，	寰宇天宮。
-四種國王，	時皆簉集。
-競奮雄強，	各自名將。
-金函五重，	龍輪平秘。 
-崇塔嚴置，	自茲已降。
-歲月延長，	無不崇奉。
-逮我哲后，	傳獲尤貴。
-仿斯前志，	向龍隊山。
-疊甃雄奇，	高出重雲。
-上層韜藏，	獰涌神光。
-作瑞明君，	山水清秀。
-煙霞氤氳，	迥隔塵氛。
-御題嘉號，	崇善延齡。
-壽祈弥敻，	轂旦佳辰。
-福場圓滿，	甫成相慶。
-輻輳朝樓，	雲臻山頂。
-澄心瑩淨，	猊臺高陟。
-潮音贊申，	集會天人。
-鐘鼓喧闐，	沉檀紛紜。
-錦繡爭春，	承茲福慧。
-囹圄拘繫，	咸脫幽屯。
-臣忝紀事，	學無三冬。
-才非五車，	帝功昭著。
-總開戶牖，	四海會同。
-共贊吾皇，	天長地久。
-天符睿武二年辛丑七月初六日立碑。
-朝列 刑部尚書 兵部員外郎同知 藩工院諸事臣阮公弼奉敕 撰。
-右侍郎 尚書工部 員外郎同知審刑院事上輕車都尉紫金魚袋李寶弓臣奉敕 書。
+  夫妙體玄寂，靈光兮非中非外，卓爾於]五太之初；大用繁滋，浩博兮唯形唯顯，森[然於一虛之裏。勿兆朕可測，靡影跡可求。包天壤廣大之容，詎能參覲；混日月光華之彩，寧假尋觀。隨榦運造化樞機，彼端然在；縱推蕩陰陽舒豫，祕要偏幽。豈非玄寂歟?
+  上下之紀綱既立;埏埴之規模[聿]興。四序行而玉 燭調;七政齊而璇璣運。雜沓萬類;叢挫眾緣。生生由是著名;蚩蚩以之遂性。不曰繁滋乎? 如此則迅機宏辯，原始要終,不亦難哉!
+  唯我大雄氏:中古應 運; 西乾顯靈。完三千之威儀;興四八之妙相。十號備具;百福莊嚴。究彼精微;明茲純粹。悼群生之醉識;悲四類之迷真。衣中忘寶而不自知; 篋裏藏蛇亦非警悟。由是，設醍醐之妙教; 飫 積歲之饑虛。燃燦爛之明燈;燭彌年之昏暗。俾浪心之天真得定;遣妄性之蓬行立安。故,三界皈依;十方回向。住塵世七十九歲;權設法八萬千門。謂:跡既合塵; 身寧隨幻。遂乃,金容掩色於雙樹;白虹騰耀於重天。兜羅綿裸其神姿;紫蘭膏潤其香體。信心戀慕，奉栴檀而作薪;覺性靈通，應闍維而火化。荼毗煙了;舍利凝成。類明月之產蚌胎;肖露珠之瑩金掌。或五彩而照耀;或九色而澄徹。盈盤滿斛;異俗超凡。人主龍王，陰間天上, 時皆造集，覺相分俵。珍惜以寶函重貯;慎守則提刃經巡。各擇其安，靡 常厥所。或香山頂上，人世塵中; 或朝野空間，滄溟宮里。堵波覺梵，神物高藏; 沿古處今，曆傳罔替。興功繼績，不亦盛歟 ?
+  恭唯李家:聖憲體道丶聖文神武丶英格民物丶 萬靈照應丶永隆元化丶聰明廣運丶仁智懿義丶純誠明孝皇帝陛下: 堪輿鍾粹，日月儲精。慶兆先符;休徵預啟。父皇入夢，殊邦獻雪象六牙;母后有娠，飛閣廕黃龍五彩。斯則陛下入胎之兆也。
+  景星瑩現，銀河應眉月之光; 慶雲曉飛，丹陛舒霜綃之彩。喜氣俄騰于霄漢;異香散靄於宮圍。十月處胎而周期;三陽建寅而誕聖。斯則陛下降誕之徵也。
+  悼歲而甫登大寶，天地相扶; 勝衣而統御寰區，人神咸贊。龍睛鳳目;玉潔冰姿。眸澄而青白分明，異重瞳 於舜帝;耳壽而輪郭修廣，嗤三漏於夏王。形頎而長;足方而厚。玉理含其潤;珠庭耀其華。誠千載之英明;冠百王之奇秀。斯則陛下天表之端嚴也。
+  惠周動植;智敏風雲。內典經書，精窮玄要;外權法術，總悉指歸。陶金石之英辭，光吞斗極;著殿塔之嘉號，懸照古今。精飛帛以通神;運御毫之絕妙。龍躍鳳翔之勢，法從玉手;鸞迴鵲返之形，體出宸心。雕金牌以置梵宮;鐫翠琰 以貽道觀。詩思撮陶鈞萬化;樂譜和唐梵同音。書窮究於玄機;射至精於妙術。斯則陛下博通於才藝也。
+  中秋清景，萬務休時。孝誠展而潔珍羞;盛禮陳而祠聖考。復於三旦;大啟駕儀。乘寶輦而出九重;陟金輅而馳黃道。雉扇擁於兩際;銀綱護於四圍。黃蓋浮空;彩 旗 慧日。星馳柳陌;斗轉花衢。向長瀘之碧川;御靈光之寶殿。千艘而中流電速;萬豉而溢水雷鳴。玉廊宴方伯之會同;丹陛奏仙吏之章表。波心蕩漾，浮金鰲以負三峰;水面夷猶，露甲文而敷四足。轉眸瞥岸;呀口噴津。向冕旒而仰觀;對當空而俯察。望嵯峨之峭壁;奏洋溢之雲韶。洞戶爭開;神仙競出。蓋天上之皃態;豈塵世之嬌
+  姿。翹纖手以獻迴風;顰翠眉而歌休運。珍禽作隊，盡率舞以趨蹌;瑞鹿成群，自著行而踴躍。及,金烏西照;寶輅將還。到如砥之途中;留廣天之境外。向崇臺而回陸地，背贔 負以載三山; 對朱盤而招頭，將安身而曳[…]尾。鳩過雲而嘹亮;虎下磴而生獰。奮迅雄威;噬齧小獸。會上林子弟，持翟 羽朱竿。厲聲驅以進帝前，築場闈而守獵界。彎弧趨射，拔劍馳循。人奮勇於片辰;士爭迎於當日。懷鄰國而攜耆提幼;來列土而登拽緣墻。屬目觀光;翹心願見。處處之盡妝羅綺;年年之三日懽 娛。躋人世於壺天;置兆民於樂國。斯則陛下撥覽而新制金鼇也。
+  顯聖謀之神妙;制御舶之精奇。著狀設連艦壯雄;立格造千艘秀麗。架重霄之樓閣;崇危峭之檐楹。中嚴黼座彌高，豁聰睿明之遐鋻;旁展繡例光燦，廣列嬪綵之親倍。傾萬寶以嚴粧;備三宮之房室。中流曉漾，疑蜃吐以橫波;隈岸晚停，擬鼇擎之聳漢。斯則陛下新制御舶之巧也。
+  廣運神功;弘推聖斷。精修勝事;勤至良緣。建廣昭之登 (燈)台，向端門之廷上。中標一幹，外設七層。虯弓出而捧金蓮; 縫紗籠而獲蘭焰。蘊機微於地下，圓轉如輪; 爍光彩於天中，瑩煌似日。復有:嚴彰寶聖;金殿珍叢。自睿意妝成;坐金色相斗。狀寫靈文;形鋪奇麗。又有:花樓兩座，綰以金鍾。刻釋子而體挂田衣，運幽機而播棰如擊;聞鳴鞘而肅儀轉面，睹英聖而稽首曲躬。出自睿謀，宛如動靜。復有:耀七寶之萃堵，作一行而互排。端中則黃金一峰，坐多寶如來之瑞相，列幾層法駕之真形。檐光爍晨旭之輝;瓦色開碧雲之彩。其次, 則白銀二座，左置阿彌陀之真容，右貯妙色身之粹質。峭舒雄勢;喬奮飛甍。聆朧欺瑞雪之融;燦爛奪秋蟾之潔。更次，則烏文二座。左安廣博身之慈顏; 右備離怖畏之妙相。既已圓高閣;又更起危層。蓋迭素瓊;壁鐫龍狀。又次，則象齒二座。左稀甘露王之形儀;右儼寶勝佛之睟睦。切磋素質;崇架霜楹。棐稜雕絲玉之英;間隙剪靈犀之角。兼精制記辭之美;各鐫于蓮座之傍。披雪精誠，永昭厥後。而又:寫九天以五色;刻四柱以雙懸。沿邊而瑩點千燈，兩面而煉妝金彩。可謂: 絕古今之制度;超造化之生成。傾天下之雍和, 夜為晝賞;暢世間之心目，老換童顏。斯則陛下巧制勝緣之功也。
+  精崇皇覺;篤慕勝因。向西禁之名園;廣延[祐]之光寺。跡從前之舊制;出聖意之新謀。鑿靈沼之芳池, 而池中湧一石幹。幹上坼千葉蓮花，花上而橋安紺殿。殿中坐金相之能仁。 池之外周遶畫廊, 環廊之外又疏碧池，每架飛橋以通之。前橋之庭，左右甃琉璃寶塔。以月之朔旦，以年之游春，親乘玉輦，來啟清筳。花香設祺祚之儀;盆盥陳浴佛之式。粧精禁之相於五眾，或袒露進退以為容; 作天王之隊於四方，齊擎器徘徊而獻舞。精勤靡 怠，敬奉移時。而,玄造靈通，咸皆扶祐。斯則陛下制梵剎以祈福壽也。
+  上方垂拱;下正弼鄰。偶邊吏之更常，成乖違之有釁。星馳御敵;雷奮挫威。邕州軍之眾億千，潰矣猶風卷翳; 如月江之師百萬，渙然若日消冰。在閫外之將自施;豈宸衷之謀所決。暨後, 致皇極於穆清;躋生民於富壽。扇仁風以化率; 施惠澤以旁宣。乍制環王, 辭宮室而趨庭為庶; 羅于國主, 弃 山河而詣闕稱臣。篤意慕羶;傾懷就日。頃者,磨沙蠻獠，恃險江山。狼獷生心，不循皇化。聖則一怒，大駕啟行。猛將雲隨;謀臣雨會。布師旅於荒野;襲梟獍之頑民。盡酋長成擒;大魁渠俘虜。其餘則:血膏草莽，肉委林泉。縱雄虎而扼鼠,奚難; 翻 巨石而碎卵,何易! 斯則陛下耀武通規也。
+  黔黎熙洽;兆庶清夷。春覲奉琛;秋朝述職。會萬國諸侯而晏賞;構眾仙三級之寶臺。銀瓦疊而光照穹旻;金蓮累而鋪陳寶相。上頂則靈禽聳立;四稜則鱗長竞驤 。蓋飾七珍; 帶妝百寶。上階正位而聖明端拱，中級下等而仙妓迴環。庭列伶官，並皆蹈躍。奮天才而成妙曲; 慰群辟而遠還酆。凌空而聲遏行雲;和管而響滋睿渥。斯則陛下修文至德也。
+  為天地之真主;究造化之幽機。運智變通;顯謀充塞。精外方之音響;譯諸技之要端。作妙舞之絕倫;示昌朝之同樂。復制:《降雲仙子》而歌聲響亮，贊哲后之元功; 《出蓮寶婺》而弱質蹁躚，慶深仁之美化。斯則陛下之大妙算也。
+  德同高厚，則五緯昭符; 惠及飛潛，則萬靈薦祉。神龍二九，光復 於寶殿瓊丹; 雪象一千，呈祥於瑤墀禁御。彰大寶之可久;符純嘏之優隆。故,林顯奇姿;天昭靈狀。復現神象一頭，形質而魁梧異等;鼻額而妙顯神光。驗文彩而清淨有除; 稟聰明而炤彰無外。御號曰: 超群神象。優曇駢芳;舍利玉現。草木效祉;神物舒光。揭錫羡無窮;示垂鴻有慶。靈草兩現;皓鹿六臻。素糜獨來;玄麆 雙至。昭長承上帝之命;契永保旻天之休。紛糾呈妍;聯鑣顯麗。龜五色而千點; 蓮兩鏡而一莖。澤及淵泉，物方廌瑞。感黎氓之寧謐;昭社稷之益隆。月重輪於層霄;金發彩於幽澗 。明照臨於有截;彰宰斷於無垠。故,天象效祥;幽源薦祉。紫檳孤幹，繁長靈苗。侔眾國以衛中邦;類普天而扶元首。辰光九十;節屆五陽。鼠變霜毛;松生偃蓋。擬鶴巢而薦異;期玉兔以昭符。叶寰海之宴清;契兆民之輯睦。瓊鳩白雀而屢集;素鷸玉龍而始呈。舒潔淨之容儀，顯惟精惟一; 革真常之舊質，效克寬克仁。招搖淪,精白驥生;距柔毛,晶榮牛現。群雁集而觀光率賀;猛虎猾而顯世畏威。鳳子成雙;瑞雪深積。飄素霙之盈尺;徵一世之三登。綽異狀之九苞;著成行於群鷺。白慈鳥而競至;皓鵠鷸 以爭翔。彰返哺之精勤;感至孝之純厚。念經終軸而非匹;祝聖萬歲而是常。檳榔啣珠;楊枝洒玉。遶九龍之寶，禎奪好珠;長繁岐之姿，祥超異畝。
+  懿夫, 承天地鴻休;紹祖宗景命。五十餘年而統化;百千諸夏以欽威。雨暘協時; 星辰順度。常念:農為治本;政必尚茲。雖歲歲躬行，意孜孜不怠。時會祥大慶九年夏五月日, 駕飛仙之鳳輦，漾耀寶之龍舟。日麗波平，潮回煙斂。歷河瀘之長派，見隊嶺之臨涯。雖聳勢嶙峋，到頂端平坦。使艤岸以維纜，詔從駕之群僚而謂之曰: 
+  - 朕欲以茲山而經營梵福, 可得之乎?
+  左右相率而奏曰:
+  - 聞鄉老所傳: 斯山常以春品，旦覃恆雨以潤黔黎。宜可施功，樂成善果。
+  兼請署其山曰:龍隊, 聖情允可。乃命日者，以辯方向。面對涇江，風靜而長舒碧練; 背分疊岫，雨消而濃綴藍光。 右控平原，望乾興之古塹; 左延流澮，會漠水以朝宗。載詔公輸，中分繩墨。施財以明功德，顧民資竭力林衡;運材以盡神奇，鳩工巧成城群匠。鏤貞玟 而作斗;琢翠碔以為楹。 涌矗漢之十三層;啟承風之四十戶。壁鐫龍窟;角挂金鈴。上層緘舍利琅函，佇放祥光於盛世; 絕頂置捧盤仙客，長承玉露於晴天。下層分八將魁梧，擁立則神人仗劍。其中座多寶如來之瑞相也: 弘深願力，寧泯全身。聽蓮偈而必簉威靈;與迦文而半分瑤座。挂珠幡之晃耀;懸寶蓋之玲瓏。階庭陞降而有差;廊廡左右而雙翼。次級, 左建四角宮，含雙龍而鎮地，負八將以朝天。揚氣概於名山;播聖功於後裔。右梵方礄龕室, 貯以賓頭和尚，放于麻黎山。受囑累於如來，為眾生而證福。
+  下級, 前構陵漢閣:懸首山之彝器;縻碧海之鯨槌。撾 時韻溢於天程;聞處劍停於苦趣。環垣墉以嚴護，貯軒廡以鋪裝。造橋光啟其通衢，藝 松成行於兩界。竭精誠以崇妙果，希延鳳曆以長新; 窮詭制以疊危層，冀益睿齡之弥 遠。故御題曰: 崇善延齡寶塔。
+  其塔經始於會祥大慶九年之夏，畢功於天符睿武二年之秋。因時隙而興營，逮豐登而設立。歷於三耕四稔 而後完焉。及慶成也:敕奉常以整駕; 感風伯以清塵。沉檀霧織於溪山; 幢幡霞爛於街道。鼓鐘喧沸;鐃磬匉訇。前道三寶雲車;後輾一人金輅。傾六宮朱翠;來萬國耆童。華宇前橫，鷲臺中敞。會方袍之潔行; 演覺帝之真詮。英聖凝旒，佇偈終而翹誠稽顙; 仙姬斂袂，聽軸盡而獻舞供酥。頒雪粒之香齋，飫充飢旅; 散泉流之圓寶，賙賑窮民。幽顯咸臻;天龍悉簉 。以:最上功力, 無邊福田。益贊皇綱，等圓方而共永; 將祈寶運，與日月而長清。早誕元娠，永膺曆數。期本支百世;冀社稷億齡。草偃多方; 葵傾萬國。臣民愛戴;祖考匡毘。神道冥扶; 天人咸贊。
+  太祖，太宗，聖宗皇帝: 既定寰瀛，沓升霄漢, 憑茲勝利，永躡金蓮;皇妣扶聖靈仁太后:厭居人世，高馭煙霞, 沐此良因，超生淨土。大凡諸侯王宮妃等:精勵幽貞，燮和內治。彌展柔嘉之操 ; 益彰淑慎之誠。佇降前星;叶吹調律。末願: 黎民富庶;寰宇肅清。文軌同儀;華夷共貫。五行順序; 百穀豐登。塞絕煙塵;國無災癘。而臣，忝列雁序，濫廁儒林。紀事之成，實聖之巧。傾天亙地之功，雖有淵雲之才，班馬之學，亦難敘萬分之一焉。既又念: 葵藿 之纖卉; 日月之照臨。千載一時，罄愚何謬。強秉鈞毫，敢伸敘述。
+  銘曰:
+      至妙至寂，	無象無形。
+      強自立名，	希夷必在。
+      澹泊靡待，	先天地生。
+      涅而不淄，	磨而不磷。
+      純粹惟精，	粵有金仙。
+      降跡竺乾，	十號俱備。
+      四弘廣敷，	六度齊修。
+      究斯元味，	[.] [.]傷[.]。
+      覺逐浮偽，	設清淨教。
+      道歸真性，	俾竫如山。
+      三界瞻仰，	十方迴向。
+      師奉慈顏，	拯濟既行。
+      浮漚冰熯，	厭处人寰。
+      白虹騰耀，	雙樹拂衣。
+      金容晦影，	蘭膏潤身。
+      栴檀作薪，	化火煙通。
+      荼毗渙互，	舍利凝成。
+      盈盤溢皿，	或炫五色。
+      或顯九彩，	燁燁滎煌。
+      陰界冥中，	寰宇天宮。
+      四種國王，	時皆簉集。
+      競奮雄強，	各自名將。
+      金函五重，	龍輪平秘。 
+      崇塔嚴置，	自茲已降。
+      歲月延長，	無不崇奉。
+      逮我哲后，	傳獲尤貴。
+      仿斯前志，	向龍隊山。
+      疊甃雄奇，	高出重雲。
+      上層韜藏，	獰涌神光。
+      作瑞明君，	山水清秀。
+      煙霞氤氳，	迥隔塵氛。
+      御題嘉號，	崇善延齡。
+      壽祈弥敻，	轂旦佳辰。
+      福場圓滿，	甫成相慶。
+      輻輳朝樓，	雲臻山頂。
+      澄心瑩淨，	猊臺高陟。
+      潮音贊申，	集會天人。
+      鐘鼓喧闐，	沉檀紛紜。
+      錦繡爭春，	承茲福慧。
+      囹圄拘繫，	咸脫幽屯。
+      臣忝紀事，	學無三冬。
+      才非五車，	帝功昭著。
+      總開戶牖，	四海會同。
+      共贊吾皇，	天長地久。
+  天符睿武二年辛丑七月初六日立碑。
+  朝列 刑部尚書 兵部員外郎同知 藩工院諸事臣阮公弼奉敕 撰。
+  右侍郎 尚書工部 員外郎同知審刑院事上輕車都尉紫金魚袋李寶弓臣奉敕 書。
 `,
-      hanvan:`ĐẠI VIỆT QUỐC LÝ GIA ĐỆ TỨ ĐẾ 
-SÙNG THIỆN DIÊN LINH THÁP BI
-Hoàng Việt Lý gia đệ tứ đế Long Đội sơn Sùng Thiện Diên Linh tháp bi minh. Ngự thư phi bạch bi ngạch.
- [Phù, diệu thể huyền tịch, linh quang hề, phi trung phi ngoại, trác nhĩ ư] ngũ thái chi sơ; đại dụng phồn ti, hạo bác hề, duy hình duy hiển, sâm nhiên ư nhất hư chi lý. Vật triệu trẫm khả trắc, mị ảnh tích khả cầu. Bao thiên nhưỡng quảng đại chi dung, cự năng tham cận; hỗn nhật nguyệt quang hoa chi thái, ninh giả tầm quan. Tùy cán vận tạo hoá khu cơ, bỉ đoan nhiên tại; tòng thôi đãng âm dương thư dự, bí yếu thiên u. Khởi phi huyền tịch dư? 
-Thượng hạ chi kỷ cương ký lập, diên thực chi quy mô duật hưng. Tứ tự hành nhi ngọc chúc điều, thất chính tề nhi toàn cơ vận. Tạp đạp vạn loại, tùng toả chúng duyên. Sinh sinh do thị trứ danh, xuy xuy dĩ chi toại tính. Bất viết phồn tư hồ? 
-Như thử tắc tấn cơ hoằng biện, nguyên thuỷ yếu chung, bất diệc nan tai!
-Duy ngã Đại Hùng thị, trung cổ ứng vận; Tây Càn hiển linh. Hàm tam thiên chi uy nghi, hưng tứ bát chi diệu tướng. Thập hiệu bị cụ, bách phúc trang nghiêm. Cứu bỉ tinh vi, minh tư thuần tuý. Điệu quần sinh chi tuý thức, bi tứ loại chi mê chân. Y trung vong bảo nhi bất tự tri, kíp lý tàng xà diệc phi cảnh ngộ. Do thị, thiết Đề hồ chi diệu giáo; ốc tích tuế chi cơ hư. Nhiên xán lạn chi minh đăng, chúc di niên chi hôn ám. Tì lãng tâm chi thiên chân đắc định; khiển vọng tính chi bồng hành lập an. Cố tam giới quy y, thập phương hồi hướng. Trụ trần thế thất thập cửu tuế, quyền thiết pháp bát vạn thiên môn. Tích vị ký hợp trần, thân ninh tùy tị huyễn. Toại nãi kim dung yểm sắc ư Song Thụ, bạch hồng đằng diệu ư trùng thiên. Đâu la miên khoả kỳ thần tư, tử lan cao nhuận kỳ hương thể. Tín tâm luyến mộ, phụng chiên đàn nhi tác tân; giác tính linh thông, ứng xà duy nhi hoả hoá. Trà tì yên liễu, xá lị ngưng thành. Loại minh nguyệt chi sản bạng thai, tiếu lộ châu chi oánh kim chưởng. Hoặc ngũ thái nhi chiếu diệu, hoặc cửu sắc nhi trừng triệt. Doanh bàn mãn hộc, dị tục siêu phàm. Nhân chủ Long vương, âm gian thiên thượng. Thời giai tháo tập, giác tướng phân biểu. Trân tích dĩ bảo hàm trọng trữ, thận thủ tắc đề nhận kinh tuần. Các trạch kỳ an, mị thường quyết sở. Hoặc Hương Sơn đỉnh thượng, nhân thế trần trung; hoặc triều dã không gian, thương minh cung lý. Đổ ba giác phạn, thần vật cao tàng; duyên cổ xử kim, lịch truyền võng thế. Hưng công kế tích, bất diệc thịnh dư?
-Cung duy Lý gia: Thánh hiến Thể đạo, Thánh văn Thần vũ, Anh cách Dân vật, Vạn linh Chiếu ứng, Vĩnh long Nguyên hoá, Thông minh Quảng vận, Nhân trí Ý nghĩa, Thuần thành Minh hiếu Hoàng đế bệ hạ: kham dư chung tuý, nhật nguyệt trừ tinh. Khánh triệu tiên phù, hưu trưng dự khải. Phụ hoàng nhập mộng, thù bang hiến tuyết tượng lục nha; mẫu hậu hữu thần, phi các ấm hoàng long ngũ thái. Tư tắc Bệ hạ nhập thai chi triệu dã.
-Cảnh tinh oánh hiện, Ngân hà ứng mi nguyệt chi quang; khánh vân hiểu phi, đan bệ thư sương tiêu chi thái. Hỉ khí nha đằng ư tiêu Hán, dị hương tán ái ư cung vi. Thập nguyệt xử thai nhi chu kỳ, tam dương kiến dần nhi đản thánh. Tư tắc Bệ hạ giáng đản chi trưng dã.
-Điệu tuế nhi phủ đăng đại bảo, thiên địa tương phù; thắng y nhi thống ngự hoàn khu, nhân thần hàm tán. Long tình phượng mục, ngọc khiết băng tư. Mâu trừng nhi thanh bạch phân minh, dị trùng đồng ư Thuấn đế; nhĩ thọ nhi luân quách tu quảng, xuy tam lậu ư Hạ vương. Hình kỳ nhi trường, túc phương nhi hậu. Ngọc lý hàm kỳ nhuận, châu đình diệu kỳ hoa. Thành thiên tải chi anh minh, quán bách vương chi kỳ tú. Tư tắc Bệ hạ thiên biểu chi đoan nghiêm dã.
-Huệ chu động thực, trí mẫn phong vân. Nội điển kinh thư, tinh cùng huyền yếu; ngoại quyền pháp thuật, tổng tất chỉ quy. Đào kim thạch chi anh từ, quang thôn Đẩu cực; trứ điện tháp chi gia hiệu, huyền chiếu cổ kim. Tinh phi bạch dĩ thông thần, vận ngự hào chi tuyệt diệu. Long dược phượng tường chi thế, pháp tòng ngọc thủ; loan hồi thước phản chi hình, thể xuất thần tâm. Điêu kim bài dĩ trí Phạn cung, thuyên thuý diễm dĩ di Đạo quán. Thi tứ toát đào quân vạn hoá, nhạc phổ hoà Đường Phạn đồng âm. Thư cùng cứu ư huyền cơ, xạ chí tinh ư diệu thuật. Tư tắc Bệ hạ bác thông ư tài nghệ dã.
-Trung thu thanh cảnh, vạn vụ hưu thời. Hiếu thành triển nhi khiết trân tu, thịnh lễ trần nhi từ thánh khảo. Phục ư tam đán, đại khải giá nghi. Thừa bảo liễn nhi xuất cửu trùng, trắc kim lộ nhi trì hoàng đạo. Trĩ phiến ủng ư lưỡng tế, ngân võng hộ ư tứ vi. Hoàng cái phù không, thái kỳ tuệ nhật. Tinh trì liễu mạch, đẩu chuyển hoa cù. Hướng Trường Lô chi bích xuyên, ngự Linh Quang chi bảo điện. Thiên sưu nhi trung lưu điện tốc, vạn cổ nhi dật thuỷ lôi minh. Ngọc lang yến phương bá chi hội đồng, đan bệ tấu tiên lại chi chương biểu. Ba tâm đãng dạng, phù ki ngao dĩ phụ tam phong; thuỷ diện di do, lộ giáp văn nhi phu tứ túc. Chuyển mâu miết ngạn, nhạ khẩu phún tân. Hướng miện lưu nhi ngưỡng quan, đối đương không nhi phủ sát. Vọng ta nga chi tiễu bích, tấu dương dật chi vân thiều. Động hộ tranh khai, thần tiên cạnh xuất. Cái thiên thượng chi mạo thái, khởi trần thế chi kiều tư. Kiều tiêm thủ dĩ hiến Hồi phong, tần thuý mi nhi ca hưu vận. Trân cầm tác đội, tận xuất vũ dĩ xu thương; thuỵ lộc thành quần, tự trước hàng nhi dũng dược. Cập kim ô tây chiếu , bảo lộ tương hoàn. Đáo như chỉ chi đồ trung, lưu quảng thiên chi cảnh ngoại. Hướng sùng đài nhi hồi lục địa, bội bị phụ dĩ tải tam sơn. Đối chu bàn nhi chiêu đầu, tương an thân nhi duệ vĩ. Cưu quá vân nhi liêu lượng, hổ hạ đắng nhi sinh ninh. Phấn tấn hùng uy, phệ khiết tiểu thú. Hội Thượng Lâm đệ tử, trì địch vũ chu can. Lệ thanh khu dĩ tiến đế tiền, trúc trường vi nhi thủ lạp giới. Loan hồ xu xạ, bạt kiếm trì tuần. Nhân phấn dũng ư phiến thần, sỹ tranh nghênh ư đương nhật. Hoài lân quốc nhi huề kỳ đề ấu, lai liệt thổ nhi đăng duệ duyên tường. Chúc mục quan quang, kiều tâm nguyện kiến. Xứ xứ chi tận trang la ỷ, niên niên chi tam nhật hoan ngu. Tê nhân thế ư Hồ thiên, trí triệu dân ư Lạc quốc. Tư tắc Bệ hạ bát lãm nhi tân chế kim ngao dã.
-Hiển thánh mưu chi thần diệu, chế ngự bạc chi tinh kỳ. Trước trạng thiết liên hạm tráng hùng, lập cách tạo thiên sưu tú lệ. Giá trùng tiêu chi lâu các, sùng nguy tiễu chi thiềm doanh. Trung nghiêm phủ toạ di cao, khoát thông duệ minh chi hà giám; bàng triển tú lệ quang xán, quảng liệt tần thái chi thân bồi. Khuynh vạn bảo dĩ nghiêm trang, bị tam cung chi phòng thất. Trung lưu hiểu dạng, nghi thẩn thổ dĩ hoành ba; ổi ngạn vãn đình, nghĩ ngao kình chi tủng Hán. Tư tắc Bệ hạ tân chế ngự bách chi xảo dã.
-Quảng vận thần công, hoằng suy thánh đoán. Tinh tu thắng sự, cần chí lương duyên. Kiến Quảng Chiêu chi đăng đài, hướng Đoan Môn chi đình thượng. Trung tiêu nhất cán, ngoại thiết thất tằng. Cù cung xuất nhi bổng kim liên, phùng sa lung nhi hộ lan diệm. Uẩn cơ vi ư địa hạ, viên chuyển như luân; thước quang thái ư thiên trung, oánh hoàng tự nhật. Phục hữu nghiêm chương bảo thánh, kim điện trân tùng. Tự duệ ý trang thành, toạ kim sắc tương đấu. Trạng tả linh văn, hình phô kỳ lệ. Hựu hữu hoa lâu lưỡng toạ, quản dĩ kim chung. Khắc Thích tử nhi thể quải điền y, vận u cơ nhi bá truỳ như kích. Văn minh sao nhi túc nghi chuyển diện, đổ anh thánh nhi khể thủ khúc cung. Xuất tự duệ mưu, uyển như động tĩnh. Phục hữu diệu thất bảo nhi tốt đổ, tác nhất hàng nhi hỗ bài. Đoan trung tắc hoàng kim nhất phong, toạ Đa Bảo Như Lai chi thụy tướng, liệt kỷ tằng pháp giá chi chân hình. Thiềm quang thước thần húc chi huy, ngõa sắc khai bích vân chi thái. Kỳ thứ, tắc bạch ngân thị toà, tả trí Adiđà chi chân dung, hữu trữ Diệu Sắc Thân chi tuý chất. Tiễu thư hùng thế, kiều phấn phi manh. Linh lung khi thụy tuyết chi dung, xán lạn đoạt thu thiềm chi khiết. Cánh thứ, tắc ô văn nhị toà. Tả an Quảng Bác Thân chi từ nhan, hữu bị Ly Bố Úy chi diệu tướng. Ký dĩ viên cao các, hựu cánh khởi nguy tằng. Cái điệt tố quỳnh, bích thuyên long trạng. Hựu thứ, tắc tượng xỉ nhị toà. Tả hy Cam Lộ vương chi hình nghi, hữu nghiễm Bảo Thắng Phật chi tụy mục. Thiết tha tố chất, sùng giá sương doanh. Phỉ lăng điêu ty ngọc chi anh; gián khích tiễn linh tê chi giác. Kiêm tinh chế ký từ chi mỹ, các thuyên vu liên tọa chi bàng. Phi tuyết tinh thành, vĩnh chiêu quyết hậu. Nhi hựu tả cửu thiên dĩ ngũ sắc, khắc tứ trụ dĩ song huyền. Duyên biên nhi oánh điểm thiên đăng, lưỡng diện nhi luyện trang kim thái. Khả vị: tuyệt cổ kim chi chế độ, siêu tạo hoá chi sinh thành. Khuynh thiên hạ chi ung hoà, dạ vi trú thưởng; sướng thế gian chi tâm mục, lão hoán đồng nhan. Tư tắc Bệ hạ xảo chế thắng duyên chi công dã.
-Tinh sùng Hoàng giác, đốc mộ thắng nhân. Hướng Tây cấm chi danh viên, quảng Diên Hựu chi quang tự. Tích tòng tiền chi cựu thế, xuất thánh ý chi tân mưu. Tạc Linh Chiêu chi phương trì, nhi trì trung dũng nhất thạch cán. Cán thượng sách thiên diệp liên hoa, hoa thượng nhi kiều an cam điện. Điện trung toạ kim tướng chi Năng Nhân. Trì chi ngoại chu nhiễu họa lang, hoàn lang ngoại hựu sơ Bích trì, mỗi giá phi kiều dĩ thông chi. Tiền kiều chi đình, tả hữu trứu lưu li bảo tháp. Dĩ nguyệt chi sóc đán, dĩ niên chi du xuân, thân thừa ngọc liễn, lai khải thanh diên. Hoa hương thiết kỳ tộ chi nghi, bồn quán trần dục Phật chi thức. Trang tinh cấm chi tướng ư ngũ chúng, hoặc đản lộ tiến thoái dĩ vi dung; tác Thiên vương chi đội ư tứ phương, tề kình khí bồi hồi nhi hiến vũ. Tinh cần mị đãi, kính phụng di thời. Nhi huyền tạo linh thông, hàm giai phù hựu. Tư tắc Bệ hạ chế Phạn sái dĩ kỳ phúc thọ dã. 
-Thượng phương thuỳ củng, hạ chính bật lân. Ngẫu biên lại chi canh thường, thành quai vi chi hữu hấn. Tinh trì ngự địch, lôi phấn toả uy. Ung Châu quân chi chúng ức thiên, hội hỹ do phong quyển ế; Như Nguyệt giang chi sư bách vạn, hoán nhiên nhược nhật tiêu băng. Tại khổn ngoại chi tướng tự thi, khởi thần trung tri mưu sở quyết. Kỵ hậu, trí hoàng cực ư mục thanh, tê sinh dân ư phú thọ. Phiến nhân phong dĩ hoá suất, thi huệ trạch dĩ bàng tuyên. Xạ Chế Hoàn vương, từ cung thất nhi xu đình vi thứ; La Vu quốc chủ, khí sơn hà nhi nghệ khuyết xưng thần. Đốc ý mộ chiên, khuynh hoài tựu nhật. Khoảnh giả Ma Sa man lạo, thị hiểm giang sơn, lang khoáng sinh tâm, bất tuần hoàng hoá. Thánh tắc nhất nộ, đại giá khải hành. Mãnh tướng vân tuỳ, mưu thần vũ hội. Bố sư lữ ư hoang dã, tập kiêu cánh chi ngoan dân. Tận tù trưởng thành cầm, đại khôi cừ phù lỗ. Kỳ dư tắc: huyết cao thảo mãng, nhục uỷ lâm tuyền. Túng hùng hổ nhi ách thử hề nan, phiên cự thạch nhi toái noãn hà dị? Tư tắc Bệ hạ diệu vũ thông quy dã.
-Kiềm lê hy hợp, triệu thứ thanh di. Xuân cận phụng tham, thu triều thuật chức. Hội vạn quốc chư hầu nhi yến thưởng, cấu chúng tiên tam cấp chi bảo đài. Ngân ngoã luỹ nhi quang chiếu khung mân, kim liên luỹ nhi phô trần bảo tướng. Thượng đỉnh tắc linh cầm tủng lập, tứ lăng tắc lân trưởng cạnh nhương. Cái sức thất trân, đới trang bách bảo. Thượng giai chính vị nhi thánh minh đoan củng, trung cấp hạ đẳng nhi tiên kỹ hồi hoàn. Đình liệt linh quan, tịnh giai đạo dược. Phấn thiên tài nhi thành diệu khúc, ủy quần tích nhi viễn hoàn Phong. Lăng không nhi thanh át hành vân, hoà quản nhi hưởng tư duệ ốc. Tư tắc Bệ hạ tu văn chí đức dã.
-Vi thiên địa chi chân chủ, cứu tạo hoá chi u cơ. Vận trí biến thông, hiển mưu sung tắc. Tinh ngoại phương chi âm hưởng, dịch chư kỹ chi yếu đoan. Tác diệu vũ chi tuyệt luân, thị xương triều chi đồng lạc. Phục chế Giáng vân tiên tử nhi ca thanh hưởng lượng, tán triết hậu chi nguyên công; xuất Liên bảo vụ nhi nhược chất biền thiên, khánh thâm nhan chi mỹ hoá. Tư tắc Bệ hạ chi diệu đại toán dã.
-Đức đồng cao hậu, tắc ngũ vĩ chiêu phù; huệ cập phi tiềm, tắc vạn linh tiến chỉ. Thần long nhị cửu, quang phục ư bảo điện quỳnh đan; tuyết tượng nhất thiên, trình tường ư dao trì cấm ngự. Chương đại bảo chi khả cửu , phù thuần hỗ chi ưu long. Cố lâm hiển kỳ tư, thiên chiêu linh trạng. Phục hiện thần tượng nhất đầu, hình chất nhi khôi ngô dị đẳng, tị ngạch nhi diệu hiển thần quang. Nghiệm văn thái nhi thanh tịnh hữu trừ, bẩm thông minh nhi chiếu chương vô ngoại. Ngự hiệu viết: “Siêu quần thần tượng”. Ưu đàm biền phương, xá lị ngọc hiện. Thảo mộc hiệu chỉ, thần vật thư quang. Yết tích tiễn vô cùng, thị thuỳ hồng hữu khánh. Linh thảo lưỡng hiện, hạc lộc lục trăn. Tố mi độc lai, huyền thư song chí. Chiêu trường thừa thượng đế chi mệnh, khế vĩnh bảo mân thiên chi hưu. Phân củ trình nghiên, liên biền hiển lệ. Quy ngũ sắc nhi thiên điểm, liên lưỡng kính nhi nhất hành. Trạch cập uyên tuyền, vật phương tiến thụy. Cảm lê manh chi ninh mật, chiêu xã tắc chi ích phong. Nguyệt trùng luân ư tằng tiêu, kim phát thái ư u giản. Minh chiếu lâm ư hữu tiệt, chương tể đoán ư vô ngân. Cố, thiên tượng hiệu tường, u nguyên tiến chỉ. Tử tân cô cán, phồn trưởng linh miêu. Mâu chúng quốc dĩ vệ trung bang, loại phổ thiên nhi phù nguyên thủ. Thần quang cửu thập, tiết giới ngũ dương. Thử biến sương mao, tùng sinh yển cái. Nghĩ hạc sào nhi tiến dị, kỳ ngọc thố dĩ chiêu phù. Hiệp hoàn hải chi yến thanh, khế triệu dân chi tập mục. Quỳnh cưu bạch tước nhi lũ tập, tố duật ngọc long nhi thuỷ trình. Thư khiết tịnh chi dung nghi, hiển duy tinh duy nhất; cách chân thường chi cựu chất, hiệu khắc khoan khắc nhân. Chiêu dao luân tinh bạch ký sinh, cự nhu mao tinh vinh ngưu hiện. Quần nhạn tập nhi quan quang suất hạ, mãnh hổ hoạt nhi hiển thế uý uy. Phượng tử thành song, thụy tuyết thâm tích. Phiêu tố anh chi doanh xích, trưng nhất thế chi tam đăng. Xước dị trạng chi cửu bao, trước thành hàng chi quần lộ. Bạch từ ô nhi cạnh chí, hạo hộc duật dĩ tranh tường. Chương phản bỗ chi tinh cần, cảm chí hiếu chi thuần hậu. Niệm kinh chung trục nhi phi sất, chúc thánh vạn tuế nhi thị thường. Tân lang hàm châu, dương chi sái ngọc. Nhiễu Cửu Long chi bảo, trinh đoạt hảo châu; trường phồn kỳ chi tư, tường siêu dị mẫu.
-Ý phù, thừa thiên địa hồng hưu, thiệu tổ tông cảnh mệnh. Ngũ thập dư niên nhi thống hoá, bách thiên chư hạ dĩ khâm uy. Vũ dương hợp thì, tinh thần thuận độ. Thường niệm: nông vi trị bản, chính tất thượng tư. Tuy tuế tuế cung hành, ý tư tư bất đãi. Thời Hội Tường Đại Khánh cửu niên hạ ngũ nguyệt nhật: giá phi tiên chi phượng liễn, dạng diệu bảo chi long chu. Nhật lệ ba bình, triều hồi yên liễm. Lịch Hà Lô chi trường phái, kiến Đội Lĩnh chi lâm nhai. Tuy tủng thế lân tuân, đáo đỉnh đoan bình thản. Sử nghĩ ngạn dĩ duy lãm, chiếu tòng giá chi quần liêu. Nhi vị chi viết: 
-- Trẫm dục dĩ tư sơn nhi kinh doanh Phạn phúc, khả đắc chi hồ?.
-Tả hữu tương suất nhi tấu viết: 
-- Văn hương lão sở truyền: Tư sơn thường dĩ xuân phẩm, đán đàm hằng vũ dĩ nhuận kiềm lê. Nghi khả thi công, lạc thành thiện quả.
-Kiêm thỉnh thự kỳ sơn viết: “Long Đội”, thánh tình doãn khả. Nãi mệnh nhật giả, dĩ biện phương hướng. Diện đối Kinh giang, phong tĩnh nhi trường thư bích luyện; bối phân Điệp tụ, vũ tiêu nhi nùng xuyết lam quang. Hữu khống bình nguyên, vọng Càn Hưng chi cổ tiệm; tả diên lưu khoái, hội Mạc thuỷ dĩ triều tông. Tái chiếu Công Thâu, trung phân thằng mặc. Thí tài dĩ minh công đức, cố dân tư kiệt lực lâm hành; vận tài dĩ tận thần kỳ, cưu công xảo thành thành quần tượng. Lũ trinh mân nhi tác đấu, trác thuý vũ dĩ vi doanh. Dũng súc Hán chi thập tam tằng, khải thừa phong chi tứ thập hộ. Bích thuyên long quật, giác quải kim linh. Thượng tằng giam xá lị lang hàm, trữ phóng tường quang ư thịnh thế; tuyệt đỉnh trí bổng bàn tiên khách, trường thừa ngọc lộ ư tình thiên. Hạ tằng phân bát tướng khôi ngô, ủng lập tắc thần nhân trượng kiếm. Kỳ trung tòa Đa Bảo Như Lai chi thụy tướng dã. Hoằng thâm nguyện lực, ninh dẫn toàn thân. Thính Liên kệ nhi tất sứu uy linh, dữ Ca Văn nhi bán phân dao tòa. Quải châu phan chi hoảng diệu, huyền bảo cái chi linh lung. Giai đình thăng giáng nhi hữu sai, lang vũ tả hữu nhi song dực. Thứ cấp, tả kiến tứ giác cung: hàm song long nhi trấn địa, phụ bát tướng dĩ triều thiên. Dương khí khái ư danh sơn, bá thánh công ư hậu duệ. Hữu Phạn phương kiều khám thất, trữ dĩ Tân Đầu hoà thượng, phóng vu Ma Lê sơn. Thụ chúc lụy ư Như Lai, vị chúng sinh nhi chứng phúc. Hạ cấp, tiền cấu Lăng Hán các, huyền Thú Sơn chi di khí, mi Bích Hải chi kình chuỳ. Troa thì vận dật ư thiên trình, văn xứ kiếm đình ư khổ thú. Hoàn viên dung dĩ nghiêm hộ, trữ hiên vũ dĩ phô trang. Tạo kiều quang khải kỳ thông cù, nghệ tùng thành hàng ư lưỡng giới. Kiệt tinh thành dĩ sùng diệu quả, hy diên phượng lịch dĩ trường tân; cùng quỷ chế dĩ điệp nguy tằng, ký ích duệ linh chi di viễn. Cố ngự đề viết: Sùng Thiện Diên Linh bảo tháp.
-Kỳ tháp kinh thuỷ ư Hội Tường Đại Khánh cửu niên chi hạ, tất công ư Thiên Phù Duệ Vũ nhị niên chi thu. Nhân thời khích nhi hưng doanh, đãi phong đăng nhi thiết lập. Lịch ư tam canh tứ nẫm nhi hậu hoàn yên. Cập khánh thành dã, sắc Phụng thường dĩ chỉnh giá, cảm Phong Bá dĩ thanh trần. Trầm đàn vụ chức ư khê sơn, tràng phan hà lạn ư nhai đạo. Cổ chung huyên phí, nạo khánh phanh hoanh. Tiền đạo Tam bảo vân xa, hậu triển nhất nhân kim lộ. Khuynh lục cung chu thuý, lai vạn quốc kỳ đồng. Hoa vũ tiền hoành, Thứu đài trung xưởng. Hội phương bào chi khiết hạnh, diễn Giác đế chi chân thuyên. Anh thánh ngưng lưu, trữ kệ chung nhi kiều thành khể tảng; tiên cơ liễm duệ, thính trục tận nhi hiến vũ cung tô. Ban tuyết lạp chi hương trai, ốc sung cơ lữ; tán tuyền lưu chi viên bảo, chu chẩn cùng dân. U hiển hàm trăn, thiên long tất sứu. Dĩ tối thượng công lực, vô biên phúc điền, ích tán hoàng cương, đẳng viên phương nhi cộng vĩnh; tương kỳ bảo vận, dữ nhật nguyệt nhi trường thanh. Tảo đản nguyên thần, vĩnh ưng lịch số. Kỳ bản chi bách thế, ký xã tắc ức linh. Thảo yển đa phương, quỳ khuynh vạn quốc. Thần dân ái đới, tổ khảo khuông tì. Thần đạo minh phù, thiên nhân hàm tán.
-Thái Tổ, Thái Tông, Thánh Tông Hoàng đế: ký định hoàn doanh, đạp thăng tiêu Hán; bằng tư thắng lợi, vĩnh nhiếp kim liên. Hoàng tỷ Phù Thánh Linh Nhân Thái hậu: yếm cư nhân thế, cao ngự yên hà, mộc thử lương nhân, siêu sinh tịnh độ. Đại phàm chư hầu vương, cung phi đẳng: tinh lệ u trinh, nhiếp hoà nội trị. Di triển nhu gia chi tháo, ích chương thục thận chi thành. Trữ giáng tiền tinh, hiệp xuy trù luật. Mạt nguyện: lê dân phú thứ, hoàn vũ túc thanh, văn quỹ đồng nghi, Hoa Di cộng quán. Ngũ hành thuận tự, bách cốc phong đăng. Tái tuyệt yên trần, quốc vô tai lệ. Nhi thần: thiểm liệt nhạn tự, lạm xí nho lâm. Kỷ sự chi thành, thực thánh chi xảo. Khuynh thiên cắng địa chi công, tuy hữu Uyên, Vân chi tài, Ban, Mã chi học, diệc nan tự vạn phân chi nhất yên. Ký hựu niệm: quỳ hoắc chi tiêm huỷ; nhật nguyệt chi chiếu lâm. Thiên tải nhất thì, khánh ngu hà mậu. Cưỡng bỉnh quân hào, cảm thân tự thuật. 
-Minh viết:
-Chí diệu chí tịch,
-Cưỡng tự lập danh,
-Đạm bạc mị đãi,
-Niết nhi bất truy,
-Thuần tuý duy tinh,
-Giáng tích trúc càn,
-Tứ hoằng quảng phu,
-Cứu tư nguyên vị,
-Giác trục phù ngụy,
-Đạo quy chân tính,
-Tam giới chiêm ngưỡng, 
-Sư phụng từ nhan,
-Phù âu băng hãn,
-Bạch hồng đằng diệu,
-Kim dung hối ảnh,
-Chiên đàn tác tân,
-Trà tì hoán hỗ,
-Doanh bàn dật mãnh,
-Hoặc hiển cửu thái,
-Âm giới minh trung,
-Tứ chủng quốc vương,
-Cạnh phấn hùng cường,
-Kim hàm ngũ trùng
-Sùng tháp nghiêm trí,
-Tuế nguyệt diên trường,
-Đãi ngã triết hậu,
-Phỏng tư tiền chí,
-Điệp trứu hùng kỳ,
-Thượng tằng thao tàng,
-Tác thuỵ minh quân,
-Yên hà nhân uân,
-Ngự đề gia hiệu:
-Thọ kỳ di quýnh,
-Phúc trường viên mãn,
-Bức thấu triều lâu,
-Trừng tâm oánh tịnh,
-Triều âm tán thân,
-Chung cổ huyên điền,
-Cẩm tú tranh xuân,
-Linh ngữ câu hệ,
-Thần thiểm kỷ sự,
-Tài phi ngũ xa,
-Tổng khai hộ dũ,
-Cộng tán ngô hoàng,
+      hanvan:`<strong>                                                                  ĐẠI VIỆT QUỐC LÝ GIA ĐỆ TỨ ĐẾ 
+                                                                  SÙNG THIỆN DIÊN LINH THÁP BI 
+  Hoàng Việt Lý gia đệ tứ đế Long Đội sơn Sùng Thiện Diên Linh tháp bi minh. Ngự thư phi bạch bi ngạch.</strong>
+  Phù, diệu thể huyền tịch, linh quang hề, phi trung phi ngoại, trác nhĩ ư] ngũ thái chi sơ; đại dụng phồn ti, hạo bác hề, duy hình duy hiển, sâm nhiên ư nhất hư chi lý. Vật triệu trẫm khả trắc, mị ảnh tích khả cầu. Bao thiên nhưỡng quảng đại chi dung, cự năng tham cận; hỗn nhật nguyệt quang hoa chi thái, ninh giả tầm quan. Tùy cán vận tạo hoá khu cơ, bỉ đoan nhiên tại; tòng thôi đãng âm dương thư dự, bí yếu thiên u. Khởi phi huyền tịch dư? 
+  Thượng hạ chi kỷ cương ký lập, diên thực chi quy mô duật hưng. Tứ tự hành nhi ngọc chúc điều, thất chính tề nhi toàn cơ vận. Tạp đạp vạn loại, tùng toả chúng duyên. Sinh sinh do thị trứ danh, xuy xuy dĩ chi toại tính. Bất viết phồn tư hồ? 
+  Như thử tắc tấn cơ hoằng biện, nguyên thuỷ yếu chung, bất diệc nan tai!
+  Duy ngã Đại Hùng thị, trung cổ ứng vận; Tây Càn hiển linh. Hàm tam thiên chi uy nghi, hưng tứ bát chi diệu tướng. Thập hiệu bị cụ, bách phúc trang nghiêm. Cứu bỉ tinh vi, minh tư thuần tuý. Điệu quần sinh chi tuý thức, bi tứ loại chi mê chân. Y trung vong bảo nhi bất tự tri, kíp lý tàng xà diệc phi cảnh ngộ. Do thị, thiết Đề hồ chi diệu giáo; ốc tích tuế chi cơ hư. Nhiên xán lạn chi minh đăng, chúc di niên chi hôn ám. Tì lãng tâm chi thiên chân đắc định; khiển vọng tính chi bồng hành lập an. Cố tam giới quy y, thập phương hồi hướng. Trụ trần thế thất thập cửu tuế, quyền thiết pháp bát vạn thiên môn. Tích vị ký hợp trần, thân ninh tùy tị huyễn. Toại nãi kim dung yểm sắc ư Song Thụ, bạch hồng đằng diệu ư trùng thiên. Đâu la miên khoả kỳ thần tư, tử lan cao nhuận kỳ hương thể. Tín tâm luyến mộ, phụng chiên đàn nhi tác tân; giác tính linh thông, ứng xà duy nhi hoả hoá. Trà tì yên liễu, xá lị ngưng thành. Loại minh nguyệt chi sản bạng thai, tiếu lộ châu chi oánh kim chưởng. Hoặc ngũ thái nhi chiếu diệu, hoặc cửu sắc nhi trừng triệt. Doanh bàn mãn hộc, dị tục siêu phàm. Nhân chủ Long vương, âm gian thiên thượng. Thời giai tháo tập, giác tướng phân biểu. Trân tích dĩ bảo hàm trọng trữ, thận thủ tắc đề nhận kinh tuần. Các trạch kỳ an, mị thường quyết sở. Hoặc Hương Sơn đỉnh thượng, nhân thế trần trung; hoặc triều dã không gian, thương minh cung lý. Đổ ba giác phạn, thần vật cao tàng; duyên cổ xử kim, lịch truyền võng thế. Hưng công kế tích, bất diệc thịnh dư?
+  Cung duy Lý gia: Thánh hiến Thể đạo, Thánh văn Thần vũ, Anh cách Dân vật, Vạn linh Chiếu ứng, Vĩnh long Nguyên hoá, Thông minh Quảng vận, Nhân trí Ý nghĩa, Thuần thành Minh hiếu Hoàng đế bệ hạ: kham dư chung tuý, nhật nguyệt trừ tinh. Khánh triệu tiên phù, hưu trưng dự khải. Phụ hoàng nhập mộng, thù bang hiến tuyết tượng lục nha; mẫu hậu hữu thần, phi các ấm hoàng long ngũ thái. Tư tắc Bệ hạ nhập thai chi triệu dã.
+  Cảnh tinh oánh hiện, Ngân hà ứng mi nguyệt chi quang; khánh vân hiểu phi, đan bệ thư sương tiêu chi thái. Hỉ khí nha đằng ư tiêu Hán, dị hương tán ái ư cung vi. Thập nguyệt xử thai nhi chu kỳ, tam dương kiến dần nhi đản thánh. Tư tắc Bệ hạ giáng đản chi trưng dã.
+  Điệu tuế nhi phủ đăng đại bảo, thiên địa tương phù; thắng y nhi thống ngự hoàn khu, nhân thần hàm tán. Long tình phượng mục, ngọc khiết băng tư. Mâu trừng nhi thanh bạch phân minh, dị trùng đồng ư Thuấn đế; nhĩ thọ nhi luân quách tu quảng, xuy tam lậu ư Hạ vương. Hình kỳ nhi trường, túc phương nhi hậu. Ngọc lý hàm kỳ nhuận, châu đình diệu kỳ hoa. Thành thiên tải chi anh minh, quán bách vương chi kỳ tú. Tư tắc Bệ hạ thiên biểu chi đoan nghiêm dã.
+  Huệ chu động thực, trí mẫn phong vân. Nội điển kinh thư, tinh cùng huyền yếu; ngoại quyền pháp thuật, tổng tất chỉ quy. Đào kim thạch chi anh từ, quang thôn Đẩu cực; trứ điện tháp chi gia hiệu, huyền chiếu cổ kim. Tinh phi bạch dĩ thông thần, vận ngự hào chi tuyệt diệu. Long dược phượng tường chi thế, pháp tòng ngọc thủ; loan hồi thước phản chi hình, thể xuất thần tâm. Điêu kim bài dĩ trí Phạn cung, thuyên thuý diễm dĩ di Đạo quán. Thi tứ toát đào quân vạn hoá, nhạc phổ hoà Đường Phạn đồng âm. Thư cùng cứu ư huyền cơ, xạ chí tinh ư diệu thuật. Tư tắc Bệ hạ bác thông ư tài nghệ dã.
+  Trung thu thanh cảnh, vạn vụ hưu thời. Hiếu thành triển nhi khiết trân tu, thịnh lễ trần nhi từ thánh khảo. Phục ư tam đán, đại khải giá nghi. Thừa bảo liễn nhi xuất cửu trùng, trắc kim lộ nhi trì hoàng đạo. Trĩ phiến ủng ư lưỡng tế, ngân võng hộ ư tứ vi. Hoàng cái phù không, thái kỳ tuệ nhật. Tinh trì liễu mạch, đẩu chuyển hoa cù. Hướng Trường Lô chi bích xuyên, ngự Linh Quang chi bảo điện. Thiên sưu nhi trung lưu điện tốc, vạn cổ nhi dật thuỷ lôi minh. Ngọc lang yến phương bá chi hội đồng, đan bệ tấu tiên lại chi chương biểu. Ba tâm đãng dạng, phù ki ngao dĩ phụ tam phong; thuỷ diện di do, lộ giáp văn nhi phu tứ túc. Chuyển mâu miết ngạn, nhạ khẩu phún tân. Hướng miện lưu nhi ngưỡng quan, đối đương không nhi phủ sát. Vọng ta nga chi tiễu bích, tấu dương dật chi vân thiều. Động hộ tranh khai, thần tiên cạnh xuất. Cái thiên thượng chi mạo thái, khởi trần thế chi kiều tư. Kiều tiêm thủ dĩ hiến Hồi phong, tần thuý mi nhi ca hưu vận. Trân cầm tác đội, tận xuất vũ dĩ xu thương; thuỵ lộc thành quần, tự trước hàng nhi dũng dược. Cập kim ô tây chiếu , bảo lộ tương hoàn. Đáo như chỉ chi đồ trung, lưu quảng thiên chi cảnh ngoại. Hướng sùng đài nhi hồi lục địa, bội bị phụ dĩ tải tam sơn. Đối chu bàn nhi chiêu đầu, tương an thân nhi duệ vĩ. Cưu quá vân nhi liêu lượng, hổ hạ đắng nhi sinh ninh. Phấn tấn hùng uy, phệ khiết tiểu thú. Hội Thượng Lâm đệ tử, trì địch vũ chu can. Lệ thanh khu dĩ tiến đế tiền, trúc trường vi nhi thủ lạp giới. Loan hồ xu xạ, bạt kiếm trì tuần. Nhân phấn dũng ư phiến thần, sỹ tranh nghênh ư đương nhật. Hoài lân quốc nhi huề kỳ đề ấu, lai liệt thổ nhi đăng duệ duyên tường. Chúc mục quan quang, kiều tâm nguyện kiến. Xứ xứ chi tận trang la ỷ, niên niên chi tam nhật hoan ngu. Tê nhân thế ư Hồ thiên, trí triệu dân ư Lạc quốc. Tư tắc Bệ hạ bát lãm nhi tân chế kim ngao dã.
+  Hiển thánh mưu chi thần diệu, chế ngự bạc chi tinh kỳ. Trước trạng thiết liên hạm tráng hùng, lập cách tạo thiên sưu tú lệ. Giá trùng tiêu chi lâu các, sùng nguy tiễu chi thiềm doanh. Trung nghiêm phủ toạ di cao, khoát thông duệ minh chi hà giám; bàng triển tú lệ quang xán, quảng liệt tần thái chi thân bồi. Khuynh vạn bảo dĩ nghiêm trang, bị tam cung chi phòng thất. Trung lưu hiểu dạng, nghi thẩn thổ dĩ hoành ba; ổi ngạn vãn đình, nghĩ ngao kình chi tủng Hán. Tư tắc Bệ hạ tân chế ngự bách chi xảo dã.
+  Quảng vận thần công, hoằng suy thánh đoán. Tinh tu thắng sự, cần chí lương duyên. Kiến Quảng Chiêu chi đăng đài, hướng Đoan Môn chi đình thượng. Trung tiêu nhất cán, ngoại thiết thất tằng. Cù cung xuất nhi bổng kim liên, phùng sa lung nhi hộ lan diệm. Uẩn cơ vi ư địa hạ, viên chuyển như luân; thước quang thái ư thiên trung, oánh hoàng tự nhật. Phục hữu nghiêm chương bảo thánh, kim điện trân tùng. Tự duệ ý trang thành, toạ kim sắc tương đấu. Trạng tả linh văn, hình phô kỳ lệ. Hựu hữu hoa lâu lưỡng toạ, quản dĩ kim chung. Khắc Thích tử nhi thể quải điền y, vận u cơ nhi bá truỳ như kích. Văn minh sao nhi túc nghi chuyển diện, đổ anh thánh nhi khể thủ khúc cung. Xuất tự duệ mưu, uyển như động tĩnh. Phục hữu diệu thất bảo nhi tốt đổ, tác nhất hàng nhi hỗ bài. Đoan trung tắc hoàng kim nhất phong, toạ Đa Bảo Như Lai chi thụy tướng, liệt kỷ tằng pháp giá chi chân hình. Thiềm quang thước thần húc chi huy, ngõa sắc khai bích vân chi thái. Kỳ thứ, tắc bạch ngân thị toà, tả trí Adiđà chi chân dung, hữu trữ Diệu Sắc Thân chi tuý chất. Tiễu thư hùng thế, kiều phấn phi manh. Linh lung khi thụy tuyết chi dung, xán lạn đoạt thu thiềm chi khiết. Cánh thứ, tắc ô văn nhị toà. Tả an Quảng Bác Thân chi từ nhan, hữu bị Ly Bố Úy chi diệu tướng. Ký dĩ viên cao các, hựu cánh khởi nguy tằng. Cái điệt tố quỳnh, bích thuyên long trạng. Hựu thứ, tắc tượng xỉ nhị toà. Tả hy Cam Lộ vương chi hình nghi, hữu nghiễm Bảo Thắng Phật chi tụy mục. Thiết tha tố chất, sùng giá sương doanh. Phỉ lăng điêu ty ngọc chi anh; gián khích tiễn linh tê chi giác. Kiêm tinh chế ký từ chi mỹ, các thuyên vu liên tọa chi bàng. Phi tuyết tinh thành, vĩnh chiêu quyết hậu. Nhi hựu tả cửu thiên dĩ ngũ sắc, khắc tứ trụ dĩ song huyền. Duyên biên nhi oánh điểm thiên đăng, lưỡng diện nhi luyện trang kim thái. Khả vị: tuyệt cổ kim chi chế độ, siêu tạo hoá chi sinh thành. Khuynh thiên hạ chi ung hoà, dạ vi trú thưởng; sướng thế gian chi tâm mục, lão hoán đồng nhan. Tư tắc Bệ hạ xảo chế thắng duyên chi công dã.
+  Tinh sùng Hoàng giác, đốc mộ thắng nhân. Hướng Tây cấm chi danh viên, quảng Diên Hựu chi quang tự. Tích tòng tiền chi cựu thế, xuất thánh ý chi tân mưu. Tạc Linh Chiêu chi phương trì, nhi trì trung dũng nhất thạch cán. Cán thượng sách thiên diệp liên hoa, hoa thượng nhi kiều an cam điện. Điện trung toạ kim tướng chi Năng Nhân. Trì chi ngoại chu nhiễu họa lang, hoàn lang ngoại hựu sơ Bích trì, mỗi giá phi kiều dĩ thông chi. Tiền kiều chi đình, tả hữu trứu lưu li bảo tháp. Dĩ nguyệt chi sóc đán, dĩ niên chi du xuân, thân thừa ngọc liễn, lai khải thanh diên. Hoa hương thiết kỳ tộ chi nghi, bồn quán trần dục Phật chi thức. Trang tinh cấm chi tướng ư ngũ chúng, hoặc đản lộ tiến thoái dĩ vi dung; tác Thiên vương chi đội ư tứ phương, tề kình khí bồi hồi nhi hiến vũ. Tinh cần mị đãi, kính phụng di thời. Nhi huyền tạo linh thông, hàm giai phù hựu. Tư tắc Bệ hạ chế Phạn sái dĩ kỳ phúc thọ dã. 
+  Thượng phương thuỳ củng, hạ chính bật lân. Ngẫu biên lại chi canh thường, thành quai vi chi hữu hấn. Tinh trì ngự địch, lôi phấn toả uy. Ung Châu quân chi chúng ức thiên, hội hỹ do phong quyển ế; Như Nguyệt giang chi sư bách vạn, hoán nhiên nhược nhật tiêu băng. Tại khổn ngoại chi tướng tự thi, khởi thần trung tri mưu sở quyết. Kỵ hậu, trí hoàng cực ư mục thanh, tê sinh dân ư phú thọ. Phiến nhân phong dĩ hoá suất, thi huệ trạch dĩ bàng tuyên. Xạ Chế Hoàn vương, từ cung thất nhi xu đình vi thứ; La Vu quốc chủ, khí sơn hà nhi nghệ khuyết xưng thần. Đốc ý mộ chiên, khuynh hoài tựu nhật. Khoảnh giả Ma Sa man lạo, thị hiểm giang sơn, lang khoáng sinh tâm, bất tuần hoàng hoá. Thánh tắc nhất nộ, đại giá khải hành. Mãnh tướng vân tuỳ, mưu thần vũ hội. Bố sư lữ ư hoang dã, tập kiêu cánh chi ngoan dân. Tận tù trưởng thành cầm, đại khôi cừ phù lỗ. Kỳ dư tắc: huyết cao thảo mãng, nhục uỷ lâm tuyền. Túng hùng hổ nhi ách thử hề nan, phiên cự thạch nhi toái noãn hà dị? Tư tắc Bệ hạ diệu vũ thông quy dã.
+  Kiềm lê hy hợp, triệu thứ thanh di. Xuân cận phụng tham, thu triều thuật chức. Hội vạn quốc chư hầu nhi yến thưởng, cấu chúng tiên tam cấp chi bảo đài. Ngân ngoã luỹ nhi quang chiếu khung mân, kim liên luỹ nhi phô trần bảo tướng. Thượng đỉnh tắc linh cầm tủng lập, tứ lăng tắc lân trưởng cạnh nhương. Cái sức thất trân, đới trang bách bảo. Thượng giai chính vị nhi thánh minh đoan củng, trung cấp hạ đẳng nhi tiên kỹ hồi hoàn. Đình liệt linh quan, tịnh giai đạo dược. Phấn thiên tài nhi thành diệu khúc, ủy quần tích nhi viễn hoàn Phong. Lăng không nhi thanh át hành vân, hoà quản nhi hưởng tư duệ ốc. Tư tắc Bệ hạ tu văn chí đức dã.
+  Vi thiên địa chi chân chủ, cứu tạo hoá chi u cơ. Vận trí biến thông, hiển mưu sung tắc. Tinh ngoại phương chi âm hưởng, dịch chư kỹ chi yếu đoan. Tác diệu vũ chi tuyệt luân, thị xương triều chi đồng lạc. Phục chế Giáng vân tiên tử nhi ca thanh hưởng lượng, tán triết hậu chi nguyên công; xuất Liên bảo vụ nhi nhược chất biền thiên, khánh thâm nhan chi mỹ hoá. Tư tắc Bệ hạ chi diệu đại toán dã.
+  Đức đồng cao hậu, tắc ngũ vĩ chiêu phù; huệ cập phi tiềm, tắc vạn linh tiến chỉ. Thần long nhị cửu, quang phục ư bảo điện quỳnh đan; tuyết tượng nhất thiên, trình tường ư dao trì cấm ngự. Chương đại bảo chi khả cửu , phù thuần hỗ chi ưu long. Cố lâm hiển kỳ tư, thiên chiêu linh trạng. Phục hiện thần tượng nhất đầu, hình chất nhi khôi ngô dị đẳng, tị ngạch nhi diệu hiển thần quang. Nghiệm văn thái nhi thanh tịnh hữu trừ, bẩm thông minh nhi chiếu chương vô ngoại. Ngự hiệu viết: “Siêu quần thần tượng”. Ưu đàm biền phương, xá lị ngọc hiện. Thảo mộc hiệu chỉ, thần vật thư quang. Yết tích tiễn vô cùng, thị thuỳ hồng hữu khánh. Linh thảo lưỡng hiện, hạc lộc lục trăn. Tố mi độc lai, huyền thư song chí. Chiêu trường thừa thượng đế chi mệnh, khế vĩnh bảo mân thiên chi hưu. Phân củ trình nghiên, liên biền hiển lệ. Quy ngũ sắc nhi thiên điểm, liên lưỡng kính nhi nhất hành. Trạch cập uyên tuyền, vật phương tiến thụy. Cảm lê manh chi ninh mật, chiêu xã tắc chi ích phong. Nguyệt trùng luân ư tằng tiêu, kim phát thái ư u giản. Minh chiếu lâm ư hữu tiệt, chương tể đoán ư vô ngân. Cố, thiên tượng hiệu tường, u nguyên tiến chỉ. Tử tân cô cán, phồn trưởng linh miêu. Mâu chúng quốc dĩ vệ trung bang, loại phổ thiên nhi phù nguyên thủ. Thần quang cửu thập, tiết giới ngũ dương. Thử biến sương mao, tùng sinh yển cái. Nghĩ hạc sào nhi tiến dị, kỳ ngọc thố dĩ chiêu phù. Hiệp hoàn hải chi yến thanh, khế triệu dân chi tập mục. Quỳnh cưu bạch tước nhi lũ tập, tố duật ngọc long nhi thuỷ trình. Thư khiết tịnh chi dung nghi, hiển duy tinh duy nhất; cách chân thường chi cựu chất, hiệu khắc khoan khắc nhân. Chiêu dao luân tinh bạch ký sinh, cự nhu mao tinh vinh ngưu hiện. Quần nhạn tập nhi quan quang suất hạ, mãnh hổ hoạt nhi hiển thế uý uy. Phượng tử thành song, thụy tuyết thâm tích. Phiêu tố anh chi doanh xích, trưng nhất thế chi tam đăng. Xước dị trạng chi cửu bao, trước thành hàng chi quần lộ. Bạch từ ô nhi cạnh chí, hạo hộc duật dĩ tranh tường. Chương phản bỗ chi tinh cần, cảm chí hiếu chi thuần hậu. Niệm kinh chung trục nhi phi sất, chúc thánh vạn tuế nhi thị thường. Tân lang hàm châu, dương chi sái ngọc. Nhiễu Cửu Long chi bảo, trinh đoạt hảo châu; trường phồn kỳ chi tư, tường siêu dị mẫu.
+  Ý phù, thừa thiên địa hồng hưu, thiệu tổ tông cảnh mệnh. Ngũ thập dư niên nhi thống hoá, bách thiên chư hạ dĩ khâm uy. Vũ dương hợp thì, tinh thần thuận độ. Thường niệm: nông vi trị bản, chính tất thượng tư. Tuy tuế tuế cung hành, ý tư tư bất đãi. Thời Hội Tường Đại Khánh cửu niên hạ ngũ nguyệt nhật: giá phi tiên chi phượng liễn, dạng diệu bảo chi long chu. Nhật lệ ba bình, triều hồi yên liễm. Lịch Hà Lô chi trường phái, kiến Đội Lĩnh chi lâm nhai. Tuy tủng thế lân tuân, đáo đỉnh đoan bình thản. Sử nghĩ ngạn dĩ duy lãm, chiếu tòng giá chi quần liêu. Nhi vị chi viết: 
+  - Trẫm dục dĩ tư sơn nhi kinh doanh Phạn phúc, khả đắc chi hồ?.
+  Tả hữu tương suất nhi tấu viết: 
+  - Văn hương lão sở truyền: Tư sơn thường dĩ xuân phẩm, đán đàm hằng vũ dĩ nhuận kiềm lê. Nghi khả thi công, lạc thành thiện quả.
+  Kiêm thỉnh thự kỳ sơn viết: “Long Đội”, thánh tình doãn khả. Nãi mệnh nhật giả, dĩ biện phương hướng. Diện đối Kinh giang, phong tĩnh nhi trường thư bích luyện; bối phân Điệp tụ, vũ tiêu nhi nùng xuyết lam quang. Hữu khống bình nguyên, vọng Càn Hưng chi cổ tiệm; tả diên lưu khoái, hội Mạc thuỷ dĩ triều tông. Tái chiếu Công Thâu, trung phân thằng mặc. Thí tài dĩ minh công đức, cố dân tư kiệt lực lâm hành; vận tài dĩ tận thần kỳ, cưu công xảo thành thành quần tượng. Lũ trinh mân nhi tác đấu, trác thuý vũ dĩ vi doanh. Dũng súc Hán chi thập tam tằng, khải thừa phong chi tứ thập hộ. Bích thuyên long quật, giác quải kim linh. Thượng tằng giam xá lị lang hàm, trữ phóng tường quang ư thịnh thế; tuyệt đỉnh trí bổng bàn tiên khách, trường thừa ngọc lộ ư tình thiên. Hạ tằng phân bát tướng khôi ngô, ủng lập tắc thần nhân trượng kiếm. Kỳ trung tòa Đa Bảo Như Lai chi thụy tướng dã. Hoằng thâm nguyện lực, ninh dẫn toàn thân. Thính Liên kệ nhi tất sứu uy linh, dữ Ca Văn nhi bán phân dao tòa. Quải châu phan chi hoảng diệu, huyền bảo cái chi linh lung. Giai đình thăng giáng nhi hữu sai, lang vũ tả hữu nhi song dực. Thứ cấp, tả kiến tứ giác cung: hàm song long nhi trấn địa, phụ bát tướng dĩ triều thiên. Dương khí khái ư danh sơn, bá thánh công ư hậu duệ. Hữu Phạn phương kiều khám thất, trữ dĩ Tân Đầu hoà thượng, phóng vu Ma Lê sơn. Thụ chúc lụy ư Như Lai, vị chúng sinh nhi chứng phúc. Hạ cấp, tiền cấu Lăng Hán các, huyền Thú Sơn chi di khí, mi Bích Hải chi kình chuỳ. Troa thì vận dật ư thiên trình, văn xứ kiếm đình ư khổ thú. Hoàn viên dung dĩ nghiêm hộ, trữ hiên vũ dĩ phô trang. Tạo kiều quang khải kỳ thông cù, nghệ tùng thành hàng ư lưỡng giới. Kiệt tinh thành dĩ sùng diệu quả, hy diên phượng lịch dĩ trường tân; cùng quỷ chế dĩ điệp nguy tằng, ký ích duệ linh chi di viễn. Cố ngự đề viết: Sùng Thiện Diên Linh bảo tháp.
+  Kỳ tháp kinh thuỷ ư Hội Tường Đại Khánh cửu niên chi hạ, tất công ư Thiên Phù Duệ Vũ nhị niên chi thu. Nhân thời khích nhi hưng doanh, đãi phong đăng nhi thiết lập. Lịch ư tam canh tứ nẫm nhi hậu hoàn yên. Cập khánh thành dã, sắc Phụng thường dĩ chỉnh giá, cảm Phong Bá dĩ thanh trần. Trầm đàn vụ chức ư khê sơn, tràng phan hà lạn ư nhai đạo. Cổ chung huyên phí, nạo khánh phanh hoanh. Tiền đạo Tam bảo vân xa, hậu triển nhất nhân kim lộ. Khuynh lục cung chu thuý, lai vạn quốc kỳ đồng. Hoa vũ tiền hoành, Thứu đài trung xưởng. Hội phương bào chi khiết hạnh, diễn Giác đế chi chân thuyên. Anh thánh ngưng lưu, trữ kệ chung nhi kiều thành khể tảng; tiên cơ liễm duệ, thính trục tận nhi hiến vũ cung tô. Ban tuyết lạp chi hương trai, ốc sung cơ lữ; tán tuyền lưu chi viên bảo, chu chẩn cùng dân. U hiển hàm trăn, thiên long tất sứu. Dĩ tối thượng công lực, vô biên phúc điền, ích tán hoàng cương, đẳng viên phương nhi cộng vĩnh; tương kỳ bảo vận, dữ nhật nguyệt nhi trường thanh. Tảo đản nguyên thần, vĩnh ưng lịch số. Kỳ bản chi bách thế, ký xã tắc ức linh. Thảo yển đa phương, quỳ khuynh vạn quốc. Thần dân ái đới, tổ khảo khuông tì. Thần đạo minh phù, thiên nhân hàm tán.
+  Thái Tổ, Thái Tông, Thánh Tông Hoàng đế: ký định hoàn doanh, đạp thăng tiêu Hán; bằng tư thắng lợi, vĩnh nhiếp kim liên. Hoàng tỷ Phù Thánh Linh Nhân Thái hậu: yếm cư nhân thế, cao ngự yên hà, mộc thử lương nhân, siêu sinh tịnh độ. Đại phàm chư hầu vương, cung phi đẳng: tinh lệ u trinh, nhiếp hoà nội trị. Di triển nhu gia chi tháo, ích chương thục thận chi thành. Trữ giáng tiền tinh, hiệp xuy trù luật. Mạt nguyện: lê dân phú thứ, hoàn vũ túc thanh, văn quỹ đồng nghi, Hoa Di cộng quán. Ngũ hành thuận tự, bách cốc phong đăng. Tái tuyệt yên trần, quốc vô tai lệ. Nhi thần: thiểm liệt nhạn tự, lạm xí nho lâm. Kỷ sự chi thành, thực thánh chi xảo. Khuynh thiên cắng địa chi công, tuy hữu Uyên, Vân chi tài, Ban, Mã chi học, diệc nan tự vạn phân chi nhất yên. Ký hựu niệm: quỳ hoắc chi tiêm huỷ; nhật nguyệt chi chiếu lâm. Thiên tải nhất thì, khánh ngu hà mậu. Cưỡng bỉnh quân hào, cảm thân tự thuật. 
+  Minh viết:
+                    Chí diệu chí tịch,
+                    Cưỡng tự lập danh,
+                    Đạm bạc mị đãi,
+                    Niết nhi bất truy,
+                    Thuần tuý duy tinh,
+                    Giáng tích trúc càn,
+                    Tứ hoằng quảng phu,
+                    Cứu tư nguyên vị,
+                    Giác trục phù ngụy,
+                    Đạo quy chân tính,
+                    Tam giới chiêm ngưỡng, 
+                    Sư phụng từ nhan,
+                    Phù âu băng hãn,
+                    Bạch hồng đằng diệu,
+                    Kim dung hối ảnh,
+                    Chiên đàn tác tân,
+                    Trà tì hoán hỗ,
+                    Doanh bàn dật mãnh,
+                    Hoặc hiển cửu thái,
+                    Âm giới minh trung,
+                    Tứ chủng quốc vương,
+                    Cạnh phấn hùng cường,
+                    Kim hàm ngũ trùng
+                    Sùng tháp nghiêm trí,
+                    Tuế nguyệt diên trường,
+                    Đãi ngã triết hậu,
+                    Phỏng tư tiền chí,
+                    Điệp trứu hùng kỳ,
+                    Thượng tằng thao tàng,
+                    Tác thuỵ minh quân,
+                    Yên hà nhân uân,
+                    Ngự đề gia hiệu:
+                    Thọ kỳ di quýnh,
+                    Phúc trường viên mãn,
+                    Bức thấu triều lâu,
+                    Trừng tâm oánh tịnh,
+                    Triều âm tán thân,
+                    Chung cổ huyên điền,
+                    Cẩm tú tranh xuân,
+                    Linh ngữ câu hệ,
+                    Thần thiểm kỷ sự,
+                    Tài phi ngũ xa,
+                    Tổng khai hộ dũ,
+                    Cộng tán ngô hoàng,
 
-Vô tượng vô hình.
-Hi di tất tại.
-Tiên thiên địa sinh.
-Ma nhi bất lân.
-Việt hữu kim tiên.
-Thập hiệu câu bị.
-Lục độ tề tu. 
-[…][... ] thương [...].
-Thiết thanh tịnh giáo.
-Tỉ tĩnh như sơn.
-Thập phương hồi hướng.
-Chửng tế ký hành.
-Yếm xử nhân hoàn.
-Song thụ phất y.
-Lan cao nhuận thân.
-Hoá hoả yên thông.
-Xá lị ngưng thành.
-Hoặc huyễn ngũ sắc.
-Việp việp huỳnh hoàng
-Hoàn vũ thiên cung.
-Thì giai sứu tập.
-Các tự danh tướng.
-Long luân bình bí.
-Tự tư dĩ giáng.
-Vô bất sùng phụng.
-Truyền hoạch vưu quý.
-Hướng Long Đội sơn.
-Cao xuất trùng vân.
-Ninh dũng thần quang.
-Sơn thuỷ thanh tú.
-Quýnh cách trần phân.
-“Sùng Thiện Diên Linh”.
-Cốc đán giai thần.
-Phủ thành tương khánh.
-Vân trăn sơn đỉnh.
-Nghê đài cao trắc.
-Tập hội thiên nhân.
-Trầm đàn phân vân.
-Thừa tư phúc tuệ.
-Hàm thoát u truân.
-Học vô tam đông.
-Đế công chiêu trứ,
-Tứ hải hội đồng.
-Thiên trường địa cửu.
-
+                    Vô tượng vô hình.
+                    Hi di tất tại.
+                    Tiên thiên địa sinh.
+                    Ma nhi bất lân.
+                    Việt hữu kim tiên.
+                    Thập hiệu câu bị.
+                    Lục độ tề tu. 
+                    […][... ] thương [...].
+                    Thiết thanh tịnh giáo.
+                    Tỉ tĩnh như sơn.
+                    Thập phương hồi hướng.
+                    Chửng tế ký hành.
+                    Yếm xử nhân hoàn.
+                    Song thụ phất y.
+                    Lan cao nhuận thân.
+                    Hoá hoả yên thông.
+                    Xá lị ngưng thành.
+                    Hoặc huyễn ngũ sắc.
+                    Việp việp huỳnh hoàng
+                    Hoàn vũ thiên cung.
+                    Thì giai sứu tập.
+                    Các tự danh tướng.
+                    Long luân bình bí.
+                    Tự tư dĩ giáng.
+                    Vô bất sùng phụng.
+                    Truyền hoạch vưu quý.
+                    Hướng Long Đội sơn.
+                    Cao xuất trùng vân.
+                    Ninh dũng thần quang.
+                    Sơn thuỷ thanh tú.
+                    Quýnh cách trần phân.
+                    “Sùng Thiện Diên Linh”.
+                    Cốc đán giai thần.
+                    Phủ thành tương khánh.
+                    Vân trăn sơn đỉnh.
+                    Nghê đài cao trắc.
+                    Tập hội thiên nhân.
+                    Trầm đàn phân vân.
+                    Thừa tư phúc tuệ.
+                    Hàm thoát u truân.
+                    Học vô tam đông.
+                    Đế công chiêu trứ,
+                    Tứ hải hội đồng.
+                    Thiên trường địa cửu.
 Thiên Phù Duệ Vũ nhị niên Tân sửu thất nguyệt sơ lục nhật lập bi.
 Triều liệt Hình bộ Thượng thư, Binh bộ Viên ngoại lang, Đồng tri phiên công viện chư sự, thần Nguyễn Công Bật phụng sắc soạn.
- Hữu thị lang Thượng thư, Công bộ Viên ngoại lang, Đồng tri Thẩm hình viện sự, Thượng khinh xa đô uý, Tử kim ngư đại Lý Bảo Cung thần phụng sắc thư.
+Hữu thị lang Thượng thư, Công bộ Viên ngoại lang, Đồng tri Thẩm hình viện sự, Thượng khinh xa đô uý, Tử kim ngư đại Lý Bảo Cung thần phụng sắc thư.
 `,
-      viet: `<strong>VĂN BIA THÁP SÙNG THIỆN DIÊN LINH CỦA VUA THỨ TƯ NHÀ LÝ NƯỚC ĐẠI VIỆT 
+      viet: `<strong>                           VĂN BIA THÁP SÙNG THIỆN DIÊN LINH CỦA VUA THỨ TƯ NHÀ LÝ NƯỚC ĐẠI VIỆT 
 Bài bi minh tháp Sùng Thiện Diên Linh núi Long Đội của vua thứ tư nhà Lý nước Hoàng Việt. Ngự thư trên trán bia viết bằng lối chữ phi bạch.</strong>
-Ôi! 
-Thể tính diệu huyền, ánh linh quang chừ chẳng ngoài chẳng trong, sừng sững khi vật chất mới nhào; 
-Công dụng mênh mông, cõi bao la chừ đúc hình đúc dáng, tràn đầy nơi hư không chất chứa. 
-Chăng hình thể để tiện suy lường; không dấu tích làm sao tìm kiếm. 
-Bao trùm dáng vũ trụ vô cùng, há dễ coi xem; 
-Hoà trộn ánh nhật nguyệt quang hoa, lẽ nào trông thấy. 
-Tùy tạo hoá then máy vần chuyển, nghiễm nhiên còn đó; 
-Theo âm dương đắp đổi nhặt khoan, màu nhiệm vẫn nguyên. 
-Há chẳng huyền diệu sao?
-Kỷ cương dưới trên đà lập; quy mô bồi đắp đã hưng. 
-Bốn mùa qua mà đuốc ngọc điều hoà; 
-Quỹ đạo chuẩn mà toàn cơ vận động. 
-Muôn loại bời bời; các duyên tế toái. 
-Chúng sinh nhờ đó tỏ danh; vạn vật bởi đây thoả tính. 
-Đó chẳng phải là tràn đầy hay sao? 
-Như vậy thì, biện biệt cơ vi, truy cầu chung thuỷ, chẳng cũng khó thay!
-Duy họ Đại Hùng ta: 
-Ứng vận thời cổ; hiển linh Tây Trúc. 
-Giữ trọn ba nghìn uy nghi; có vẹn ba hai tướng lạ. 
-Mười hiệu đầy đủ; trăm phúc trang nghiêm. 
-Thấu lẽ tinh vi; tỏ điều thuần tuý. 
-Thương quần sinh say sưa cái “thức”; xót bốn loài mê lẫn điều “chân”. 
-Ngọc quên ngực áo mà chẳng tự hay; rắn chứa tráp hòm mà không tỉnh ngộ. 
-Cho nên, 
-Làm nên đạo pháp sữa mầu; nuôi kẻ kinh niên đói khát. 
-Thắp ngọn đèn thêm xán lạn; đốt u ám trải bao năm. 
-Khiến thiên tâm sóng động được yên; làm vọng tính mê lầm được định. 
-Cho nên, 
-Tam giới quy y; thập phương hồi hướng. 
-Trụ trần thế bảy mươi chín năm; giữ thiết pháp tám tư nghìn cửa. 
-Rằng: dấu lẫn bụi trần; thân tùy hư ảo. 
-Thế rồi, 
-Kim thân lịm sắc: rừng Song Thụ; hào quang vọt sáng: chốn thiên không. 
-Lụa tằm tơ bọc lấy vẻ thần; sáp lan tía tẩm nhuần thân báu. 
-Tín tâm hâm mộ, dâng chiên đàn để làm củi; 
-Giác tính linh thông, ứng trà tỳ mà hóa thiêu. 
-Khói đàn tắt hết; xá lị kết nên. 
-Tựa ngọc trai sáng vầng nguyệt tỏ; giống trân châu ánh giọt sương trong. 
-Hoặc chói rạng năm sắc; hoặc trong vắt chín màu. 
-Tràn mâm đầy hộc; khác tục siêu phàm. 
-Hoàng đế long vương, trên trời dưới đất, thời đều tề tựu, giác tướngchia nhau. 
-Trân tiếc thì đem hộp vàng cất đựng; cẩn thận thì cầm gươm quý canh phòng. 
-Đều chọn chốn yên, tùy nơi cất trữ. 
-Hoặc trên đỉnh Hương Sơn, hoặc giữa miền nhân thế;
-Hoặc trong triều ngoài nội, hoặc giữa chốn Long cung. 
-Chùa chiền bảo tháp, thần vật cất cao. 
-Từ xưa tới nay, lưu truyền bất hủ. 
-Hưng công kế nối, cũng chẳng thịnh ru?
-Kính nghĩ: 
-Thánh hiển Thể đạo, Thánh văn Thần vũ, Anh cách Dân vật, Vạn linh Chiếu ứng, Vĩnh long Nguyên hóa, Thông minh Quảng vận, Nhân trí Ý nghĩa, Thuần thành Minh hiếu Hoàng Đế bệ hạ nhà Lý ta. 
-Thiên địa đúc tinh, nhật nguyệt kết túy. 
-Điềm lành báo trước, triệu tốt mở ra. 
-Phụ hoàng nhập mộng, nước ngoài dâng voi trắng sáu ngà; 
-Mẫu hậu hoài thai, gác tía phủ rồng vàng năm sắc. 
-Đó là điềm báo lúc Bệ hạ đầu thai vậy.
-Sao lành chói hiện, ngân hà ứng nét trăng non; 
-Mây tốt sáng bay, bệ ngọc khoe màu lụa bạc.
-Khí vui bỗng vút thẳng trời xanh; hương lạ chợt ngát đầy cung cấm. 
-Mười tháng hoài thai khi tròn cữ; ba dương xuân tiết lúc Thánh sinh. 
-Đó là điềm báo Bệ hạ giáng trần vậy.
-Ấu thơ mà đăng quang ngôi báu, trời đất khuông phò; 
-Trẻ mỏ mà thống ngự non sông, thần người giúp dập. 
-Ngươi rồng mắt phượng, trong ngọc trắng băng. 
-Mắt trong veo mà đen trắng phân minh, khác ngươi hai tròng Thuấn đế; 
-Tai thọ trường mà thành quách cao dầy, hơn tai ba lỗ Hạ vương. 
-Thân cao mà lớn, chân chắc mà dầy. 
-Da nhuần tựa ngọc mài, trán ngời như châu sáng. 
-Thực nghìn năm đúc anh minh, vượt trăm vua phô kỳ tú. 
-Đó là vẻ đoan nghiêm của Bệ hạ vậy.
-Ơn tưới muôn vật; trí vượt gió mây. 
-Sách Nho sách Phật, uyên áo tỏ tường; 
-Pháp thuật pháp quyền, gồm thâu yếu chỉ. 
-Lời tinh diệu ghi tạc đá vàng, sáng lòa Bắc Cực; 
-Hiệu tốt lành chói ngời điện tháp, ánh chiếu xưa nay. 
-Tinh phi bạch, rất đỗi thần kỳ; thảo bút ngự, vô cùng tuyệt diệu. 
-Thế tựa rồng bay phượng múa, phép viết từ tay ngọc viết ra; 
-Hình như loan liệng thước chao, thể chữ tự lòng vua chữ hiện. 
-Chạm biển vàng đặt chốn Phạn cung; khắc bia ngọc dựng nơi Đạo quán. 
-Tứ thơ tóm đất trời biến hóa; điệu nhạc hoà Đường Phạn đồng âm. 
-Thư pháp thì cùng cứu huyền cơ; cung nỏ thì tinh thông diệu thuật.
-Đó là Bệ hạ tài nghệ quán thông vậy.
-Trung thu cảnh đẹp, muôn việc nghỉ ngơi. 
-Lòng hiếu mở mà soạn cỗ bàn; lễ lạt bày để dâng hoàng khảo. 
-Lại sớm mùng ba; sửa sang xa giá. 
-Cưỡi ngựa báu ra ngoài điện đỏ; lên xe châu ruổi ở đường vàng. 
-Quạt lông trĩ buộc ở hai bên; dây nạm bạc néo từ bốn phía. 
-Trời biếc lọng vàng; cờ màu nắng tuệ. 
-Tinh tú giong bờ liễu; Bắc Đẩu chuyển đường hoa. 
-Xuôi Trường Lô dòng xanh; ngự Linh Quang điện báu . 
-Nghìn thuyền đi chớp giật giữa dòng; muôn trống dội sấm vang dậy nước. 
-Dưới hiên ngọc, thết chư hầu hội họp; trong thềm son, tấu chương biểu sứ tiên. 
-Dập dờn lòng sóng, thả rùa vàng đội ba đỉnh núi; 
-Thung dung mặt nước, phô giáp vằn lộ bốn cột chân. 
-Hướng mắt nhìn bờ, há miệng phun bến. 
-Ngửa trông đó mặt rồng, cúi xét ấy trời thẳm. 
-Ngóng vách đá cheo leo, tấu nhạc Thiều réo rắt. 
-Cửa động lặng mở, thần tiên sánh vai. 
-Ấy dáng phong tư thượng giới; há vẻ kiều diễm trần ai. 
-Uốn tay thon hiến khúc Hồi phong, cong mày biếc ca lời thịnh trị. 
-Chim quý họp bầy, thảy đua dáng lượn bay; 
-Hươu lành thành đội, tự xắp hàng vờn nhảy. 
-Gặp lúc: 
-Bóng ác về tây; kiệu xe sắp lại. 
-Đến giữa đường bằng phẳng; ở ngoài cõi Quảng Thiên. 
-Dõi đài cao về mặt đất, xây lưng bí đội ba non. 
-Trước mâm son mà cất cổ; đem thân tĩnh mà lê đuôi. 
-Chim xuyên mây mà ríu rít; hổ xuống núi mà oai phong. 
-Trổ tài dũng mãnh ; thú nhỏ xé nhai. 
-Hội Thượng Lâm đệ tử; cầm lọng trĩ cán son. 
-Tiếng thét vang tiến đến trước vua ; đắp bãi rộng làm trường săn bắn. 
-Cung giương chân chạy ; kiếm tuốt ngựa giong. 
-Thoắt cái người khoe dũng ; thoắt cái kẻ tranh hùng.
-Mến lân bang nên bồng trẻ dắt già ; gọi chư hầu mà băng sông vượt núi. 
-Căng mắt ánh trời ; thỏa lòng mong gặp. 
-Nơi nơi đều sức trang gấm vóc ; năm năm cùng hòa mục ba hôm. 
-Đưa người đời lên chốn Hồ Thiên; đặt muôn dân vào miền lạc quốc. 
-Đó là việc Bệ hạ nhìn rộng mà sáng chế rùa vàng vậy.
-Mưu thánh tỏ thần diệu ; thuyền ngự chế tinh kỳ. 
-Đặt hạm tàu khí ngút oai hùng; đóng nghìn thuyền dáng trông tú lệ. 
-Dựng lầu gác chọc mây; trồng cột diềm ngất núi. 
-Giữa đặt điện vẽ cao vút, để nhà vua phóng mắt nhìn xa; 
-Cạnh phô hàng gấm xa hoa, cho ngự nữ sẵn sàng hầu cận. 
-Dốc muôn báu vật trang hoàng ; xây đủ ba cung phòng ốc. 
-Giữa dòng nắng mai, ngỡ giao long nhả hơi chặn sóng; 
-Trên bến bóng chiều, tưởng kim ngao đội núi ngang mây. 
-Đó là sự tinh xảo trong việc chế tạo thuyền ngự của Bệ hạ vậy.
-Rộng vận thần công ; cả suy thánh đoán. 
-Tinh sửa thắng sự ; chăm tới lương duyên. 
-Dựng đài cao Quảng Chiếu ; hướng sân trước đoan môn. 
-Trong nêu một cột ; ngoài đặt bảy tầng. 
-Thân rồng uốn mà đỡ sen vàng; lụa thêu lồng mà che hoa chúc. 
-Giấu cơ vi ở dưới đất, chuyển tròn bánh xe; 
-Rực ánh sáng ở giữa trời, chói lòa mặt nhật. 
-Lại có: 
-Bảo Thánh vẻ nghiêm; điện vàng hoa ngọc. 
-Do ý Thần dựng nên; đặt tượng Phật hai dãy. 
-Dáng chép linh văn; hình phô bóng bẩy. 
-Lại có: 
-Lầu hoa hai chiếc; trong buộc chuông vàng. 
-Khắc tăng nhân, thân mặc cà sa, chuyển lẫy ngầm, giơ chày thúc tiếng; 
-Nghe tiếng giáo, mặt nên nghiêm túc, nhìn thánh minh, khom cật giập đầu. 
-Thảy đó ý vua; động tĩnh như thật. 
-Lại có : 
-Long lanh phù đồ phô thất bảo, xếp một hàng thứ tự bên nhau. 
-Chính giữa thì một đỉnh vàng: 
-Đặt tượng lành Như Lai Đa Bảo; bày chân hình xe phép mấy tầng. 
-Mái hiên lấp lánh ánh ban mai; vẻ ngói huy hoàng mờ mây biếc. 
-Thứ đến, hai tòa bạch ngân: 
-Trái đặt chân tượng A Di Đà; phải chứa xá lị  Diệu Sắc Thân. 
-Chóp dang thế mạnh; đao xoải cánh bay. 
-Lung linh khinh tuyết trắng đang tan; rực rỡ mờ trăng thu vừa rạng. 
-Thứ nữa lại có hai tòa tháp bằng gỗ mun: 
-Trái đặt Quảng Bác Thân nhân từ; phải đặt Ly Bố Úy diệu tướng. 
-Đã xong gác lớn; lại dựng lầu cao. 
-Mái chồng ngói ngọc; vách trổ dáng rồng. 
-Lại thêm, hai tòa tháp ngà: 
-Trái chạm dung nghi Cam Lồ Vương; phải đặt diệu tướng Bảo Thắng Phật . 
-Giũa mài chất quý; cao dựng cột hiên. 
-Các góc nạm ngọc hiếm; các khe khảm sừng tê. 
-Lại thảo bút văn chương hoa lệ; đều khắc vào bên mé tòa sen. 
-Phơi lòng thành tuyết trắng; soi rọi mãi muôn sau. 
-Mà lại, 
-Đem ngũ sắc vẽ chín tầng trời; dùng đối liễn khắc bốn thân cột. 
-Đôi bên chói điểm nghìn đèn; hai mặt trang nghiêm kim tướng. 
-Khá nói: 
-Vượt xa chế độ cổ kim; trội hẳn sinh thành tạo hóa. 
-Nghiêng hòa vui thiên hạ, đêm trở thành ngày; 
-Rộng mắt lòng thế gian, già nay trẻ lại. 
-Đó là công lao khéo xây dựng thắng duyên của Bệ hạ vậy.
-Tôn sùng đạo Phật, hâm mộ mống lành. 
-Noi Tây Cấm danh lừng thượng uyển; mở Diên Hựu chốn đó danh lam. 
-Theo quy chế vốn có trước kia; Ra mưu tính ý vua nay tỏ.  
-Đào ao thơm mang tên Linh Chiêu; giữa ao kia cột đá vọt đứng. 
-Đỉnh cột nở ngàn cánh hoa sen; hoa đặt vững một tòa điện tía. 
-Trong điện đặt Thích Ca kim tướng; ngoài ao dựng họa lang bọc quanh. 
-Ngoài hành lang lại đào ao Bích Trì khơi vòng, đều bắc các cầu vồng thông vào. 
-Sân nơi cầu trước, tả hữu dựng tháp báu lưu ly. 
-Để sáng mồng một hàng tháng, để mùa xuân hàng năm, nhà vua thân ngồi xe ngọc, đến mở tiệc chay. 
-Hương hoa bày nghi thức cầu an; Ang nước đặt lễ nghi tắm Phật. 
-Ngũ chúng vẽ hình dung cẩn thận, đều hở vai tiến thoái trang nghiêm; 
-Tứ phương đặt mấy đội Thiên vương, giơ pháp khí bồi hồi dâng múa. 
-Tinh cần chẳng trễ; kính phụng theo thời. 
-Vì vậy mà: 
-Tạo hóa linh thông; đều cùng phù hựu. 
-Đó là Bệ hạ dựng Phạn Sái để cầu phúc thọ vậy.
-Trên đang rủ áo; dưới giúp lân bang. 
-Bỗng bọn biên lại trở mặt; gây nên hiềm khích bất hòa. 
-Sao giong đánh địch; sấm động chống thù. 
-Ung Châu giặc ức nghìn, sụp vỡ như gió cuốn sương; 
-Như Nguyệt quân trăm vạn, tan tành như băng phơi nắng. 
-Ngoài biên tái, tướng tự lo; trong cửu trùng, vua mưu quyết. 
-Rồi sau, 
-Đưa hoàng cực lên cõi thanh bình; dẫn sinh dân đến nơi giàu thọ. 
-Quạt gió nhân mà giáo hoá; ra ơn huệ để đỡ đần. 
-Hoàn vương Sạ Chế, lìa hoàng cung đến cửa khuyết, xin làm thứ dân; 
-Quốc chủ La Vu, bỏ giang san tới sân đình, nguyện thành tôi tớ. 
-Dốc ý hồi hóa; nghiêng lòng hướng dương. 
-Gần đây, mán lào Ma Sa, cậy non sông hiểm, mang lòng sói lang, không theo thánh hóa. 
-Vua ta nổi giận; xa giá khởi hành. 
-Mãnh tướng như mây theo; mưu thần như mưa họp. 
-Dàn quân đội ở đồng nội; đánh đám loạn tính bất trung. 
-Bao tù trưởng đều bắt sống, Bao đầu sỏ thảy bỏ tù. 
-Còn lại thì, 
-Máu giây cây cỏ; xác ải khe rừng. 
-Thả hùm thiêng bắt chuột, khó chi; lăn đá to chọi trứng, cũng dễ! 
-Đó là khi Bệ hạ dùng võ dùng mưu vậy!
-Lê dân hoà mục; bách tính yên vui. 
-Xuân xem dâng ngọc; thu thuật chức danh. 
-Họp mấy vạn chư hầu mà ban yến thưởng; xây ba bậc bảo đài mà diễn quần tiên. 
-Lợp ngói bạc mà ánh chiếu trời xanh; ken sen vàng mà hoa phô tướng báu. 
-Đỉnh điện thì linh điểu vút đứng; bốn góc thì xi vẫn ganh đua.   
-Lọng dệt thất trân; dải đeo trăm báu. 
-Thềm trên ngôi chính, thánh thượng rủ áo khoanh tay; 
-Bậc giữa dưới cùng, kỹ nữ như tiên vây kín. 
-Sân bày trăm quan, đều cùng nhảy múa. 
-Ra sức thiên tài mà khoe diệu khúc; vỗ dân phiên thuộc mà về ấp Phong. 
-Vút tầng không mà giọng át mây bay; hoà tiếng sáo mà ơn nhuần thôn xóm. 
-Đó là Bệ hạ tu văn sửa đức vậy !
-Làm chân chúa của đất trời; xét huyền cơ của tạo hoá. 
-Mưu lược biến thông; anh minh choán khắp. 
-Rành rẽ thanh âm bốn cõi; tinh tường kỹ thuật trăm nghề. 
-Chế vũ điệu tuyệt luân; múa hân hoan đời thịnh. 
-Lại soạn: 
-“Giáng vân tiên tử”, hát tiếng véo von, ngợi ca công nghiệp triết vương; 
-“Xuất liên bảo vụ ”, uốn hình yểu điệu, chúc tụng lòng nhân giáo hoá. 
-Đó là sự tính toán diệu kỳ của Bệ hạ vậy !
-Đức sánh đất trời, nên năm sao tỏ bùa; 
-Ơn tới cá chim, thì muôn loài dâng phúc. 
-Mười tám rồng thần, phô sáng chốn thềm quỳnh bảo điện; 
-Một nghìn voi trắng, khoe điềm nơi hiên ngọc cấm cung. 
-Tỏ rõ ngôi báu khá miên trường; tương hợp phúc lành thêm xương thịnh. 
-Cho nên: 
-Trời rạng điềm thiêng ; rừng phô vật lạ. 
-Lại thấy một con voi thần: 
-Dáng hình khôi kỳ đẹp đẽ; vòi trán rạng rỡ thần quang. 
-Nghiệm văn vẻ mà thanh tịnh có thừa; bẩm thông minh mà chiêu chương vô tận. 
-Ngự hiệu là “ Siêu Quần Thần Tượng ”. 
-Ưu đàm hương kết; xá lị ngọc phô. 
-Cỏ cây dâng phúc; thần vật báo điềm. 
-Tỏ ơn sâu vô cùng; truyền phúc lớn bất tận. 
-Cỏ thiêng hai lần xuất hiện; hươu trắng sáu lượt tìm về. 
-Nai trắng lại một con; hoẵng đen về một cặp. 
-Thừa mệnh sáng thượng đế lâu dài; giữ hoà hợp phúc trời mãi mãi. 
-Tới tấp tỏ điềm hay; song song phô vẻ lạ. 
-Rùa nghìn đốm mà năm màu; sen hai gương mà một nhánh. 
-Ơn khắp suối khe; điềm sinh giải trãi. 
-Cảm dân chúng thêm yên bình; tỏ xã tắc càng hưng vượng. 
-Trăng trùng vầng náu tầng mây; vàng khe tối còn khoe sắc. 
-Chứng tỏ: sáng thì có lúc; chứng tỏ: tối cũng có chừng. 
-Cho nên, 
-Tượng trời cát tường; nguồn sâu dâng phúc. 
-Một thân cau tía, nảy lắm chồi thiêng. 
-Tìm phên giậu mà bảo vệ trung ương; kiếm khắp trời mà bù trì thánh chúa. 
-Thiều quang chín chục; tiết đến năm dương. 
-Chuột chuyển lông sương; tùng sinh tán lọng. 
-Như tổ hạc mà tỏ lạ, hẹn thỏ ngọc để dâng bùa. 
-Hòa bốn bể thanh bình; hợp muôn dân hòa mục. 
-Sẻ trắng, cưu vàng vừa đỗ; rồng ngọc, cò trắng mới trình. 
-Bày dung nghi thanh khiết, tỏ rõ “duy nhất duy tinh”; 
-Thay chất cũ chân thường, bắt chước “khắc khoan khắc nhân”. 
-Chiêu dao lặn, rành rành ngựa ký sinh ra; 
-Cựa mọc lông, rờ rỡ trâu đen xuất hiện. 
-Đàn nhạn hợp mà phương xa thần phục; mãnh hổ vờn mà khắp chốn sợ oai. 
-Phượng hoàng kết đôi; tuyết lành dày đọng. 
-Hoa tuyết dầy một thước; thời đại rõ thái hòa. 
-Đem chim phượng chín vẻ khác thường; so đàn cò một hàng sắp đặt. 
-Quạ trắng đua nhau đến; ngỗng trời xoải cánh bay. 
-Tỏ rõ sự tinh cần báo hiếu; cảm thông lòng thuần hậu thảo hiền. 
-Niệm Kinh trọn cuốn mà ai kẻ so bì; 
-Chúc Thánh muôn năm mà lệ thường đã định. 
-Cau quý ngậm châu, nhành dương rưới ngọc. 
-Cửu long chạy đàn quanh lối, điềm lành châu báu sánh đua; 
-Dáng vẻ tràn đầy khắp nơi, triệu tốt phương xa vượt tới.
-Đẹp thay! 
-Chịu phúc dày trời đất; thừa mệnh lớn tổ tông. 
-Hơn năm mươi năm trị quốc; hàng trăm nghìn nước phục uy. 
-Mưa đúng tiết thời; sao theo triền độ. 
-Thường nghĩ: 
-Nhà nông là gốc; chính trị trọng xem. 
-Tuy bao năm đích thân làm lụng; mà chăm chắm chăng lúc nghỉ ngơi. 
-Ngày tháng năm mùa hè, niên hiệu Hội Tường Đại Khánh thứ 9 (1118): 
-Cưỡi xe phượng chơi cõi tiên; cưỡi thuyền rồng lòa nắng báu. 
-Nắng đẹp sóng yên, khói tan triều rặc. 
-Qua sông Lô dằng dặc, thấy núi Đọi lên bờ. 
-Tuy thế núi chênh vênh, nhưng đỉnh non bằng phẳng. 
-Vua sai buộc thuyền vào bến, gọi các quan tòng giá mà bảo rằng: 
-- Trẫm muốn dựng ngôi chùa phúc ở núi này liệu có được chăng?
-Tả hữu cùng bước ra tâu:
-- [Chúng thần] nghe các cụ già trong làng kể lại: Núi này cứ đến đầu xuân thì trời thường mưa để tưới muôn dân. Rất đáng thi công, vui thành thiện quả. 
-Rồi lại xin đặt tên núi này là Long Đội, nhà vua chuẩn y. Bèn hạ lệnh cho viên quan coi việc thiên văn xác định phương hướng: 
-Mặt chùa hướng sông Kinh, gió lặng như thêu lụa biếc; 
-Lưng chiền xây núi Điệp, mưa tan thêm rạng the xanh. 
-Phải thì khống chế bình nguyên, trông tới Càn Hưng lũy cũ; 
-Trái thì men theo lạch nhỏ, hội cùng sông Mạc ra khơi. 
-Chiếu cho thợ mộc, nảy mực căng dây. 
-Thí của mà rõ thêm công đức, xót tiền dân dốc sức lâm hành; 
-Chuyển gỗ mà hết sức thần kỳ, thuê thợ thuyền trổ tài khéo léo. 
-Đẽo đá mân cứng làm đấu, mài đá vũ xanh dựng hiên. 
-Dựng mười ba tầng chọc sông ngân; mở bốn mươi cửa nghênh gió mát. 
-Vách chạm hang rồng; góc treo chuông ngọc. 
-Tầng trên chứa hộp thiêng xá lị, vì đời thịnh mà tỏa hào quang; 
-Đỉnh mái đặt tiên khách bưng mâm, giương trời cao mà hứng sương ngọc. 
-Tầng dưới chia tám tướng khôi ngô, vây quanh có thần nhân chống kiếm. 
-Tòa giữa đặt tượng Đa Bảo Như Lai: nguyện lực sâu rộng, thà mất toàn thân.
-Nghe Liên kệ giúp đỡ oai thiêng, vì Ca Văn chia đôi tòa báu. 
-Treo phướn châu rực rỡ ; cắm lọng tía lung linh. 
-Thềm sân tam cấp xuống lên; hành lang hai bên tả hữu. 
-Phía dưới, bên trái dựng cung tứ giác: 
-Ôm hai rồng mà trấn đất; đội tám tướng chầu trời. 
-Nêu khí tượng cho danh sơn; truyền thánh công cho hậu thế. 
-Bên hữu chùa, dựng nhà khám nhọn vuông, trong đặt Tân Đầu hòa thượng khi bị đày ra Ma Lê sơn. Nhận lời dặn của Như Lai, vì chúng sinh mà chứng phúc. 
-Bậc dưới, trước xây gác Lăng Hán: 
-Treo chuông đồng Thú Sơn ; buộc chầy kình Bích Hải. 
-Đánh thì tiếng vọng cung trời, nghe thì kiếm dừng địa ngục. 
-Quây tường bao để nghiêm giữ, chứa hiên vũ để phô trương. 
-Bắc cầu mở rộng đường đi, trồng thông xắp thành hai dãy. 
-Dốc lòng thành tôn sùng diệu quả, muốn cho lịch số dài lâu; 
-Hết kiểu lạ trùng thiềm điệp ốc, chúc cho tuổi vua trường cửu. 
-Cho nên ngự đề là Sùng Thiện Diên Linh bảo tháp.
-Tháp này bắt đầu xây từ mùa hạ năm Hội Tường Đại Khánh thứ 9 (1118) đến mùa Thu năm Thiên Phù Duệ Vũ thứ hai (1121) thì hoàn thành. 
-Nhân lúc rảnh mà hưng công; gặp được mùa mà dựng lập. 
-Trải qua ba vụ cày, bốn mùa lúa chín, sau mới hoàn tất. 
-Đến khi khánh tạ lạc thành: 
-Sai Phụng Thường chỉnh đốn kiệu xe; cám Phong Bá dọn quang bụi bặm. 
-Khói trầm hương: mù dệt núi khe; bóng cờ phướn: ráng tan đường xá. 
-Chiêng trống vang lừng; khánh chuông ánh ỏi. 
-Trước dẫn xe mây Tam bảo; sau xoay kiệu báu một người. 
-Đốc xanh đỏ sáu cung; đón trẻ già muôn nước. 
-Nhà hoa chắn trước; đài Thứu giữa bày. 
-Hội tì kheo trai khiết; diễn Giác đế chân kinh. 
-Thánh đế nghiêm trang, dứt kệ rồi thành tâm dập trán; 
-Cung nga khép nép, nghe kinh xong dâng múa đề hồ. 
-Ban cơm chay như ngọc, cho khách cơ hàn; 
-Phát của quý tựa sông, cứu dân cùng khổ. 
-U - hiển đều về; rồng- trời cùng tụ. 
-Đem: công lực tối thượng, ruộng phúc vô biên. 
-Ca ngợi kỷ cương, sánh vuông tròn mà vĩnh cửu;
-Cầu mong vận nước, cùng nhật nguyệt để chiếu soi. 
-Sớm sinh Thái tử; nối mãi số trời. 
-Mong cho gia tộc trăm đời; cầu cho xã tắc muôn thuở. 
-Muôn phương cỏ rạp; vạn nước hướng dương. 
-Thần dân yêu mến; tiên tổ hộ phù. 
-Thần đạo ngầm phò; trời người đều giúp.
-Thái Tổ- Thái Tông - Thánh Tông Hoàng đế: định xong bốn bể, nhẹ gót lên tiên, nhờ quả phúc này, thảng thích đài sen; 
-Hoàng tỷ - Phù Thánh - Linh Nhân Thái hậu: chán cõi trần hoàn, ngự nơi khói ráng, gội lương nhân này, siêu sinh Tịnh Độ. 
-Phàm các vương phi của các vua chư hầu: 
-Hiền hòa trinh thục; nội trị tinh cần. 
-Càng nêu tiết tháo nhu hòa; càng tỏ thuần thành thảo thuận. 
-Đợi sinh Thái tử, điệu nhạc cùng hòa. 
-Sau cùng xin nguyện: 
-Nhân dân giàu có; vũ trụ thanh bình. 
-Xa thư một mối; Nam Bắc văn minh. 
-Ngũ hành đắp đổi; Bách cốc bội thu. 
-Biên cương bặt khói; đất nước an lành. 
-Mà chúng thần thì: 
-Thẹn bày hàng nhạn ; lạm dự rừng nho. 
-Ghi chép đã xong, thực nhờ vua sáng. 
-Công lao nghiêng trời lệch đất, dẫu tài như Uyên- Vân, học như Ban- Mã, cũng khó lòng ghi lại được muôn một vậy. 
-Rồi lại nghĩ : 
-Phận rau quỳ, rau hoắc nhỏ nhoi; nhờ được mặt trời, mặt trăng soi tới. 
-Nghìn năm một thuở, dốc hết lòng ngu. 
-Gượng cầm ngòi bút, đánh bạo dâng bày.
-	Lời minh rằng:
-Rất diệu rất tĩnh,			[Cái đạo] rất mầu nhiệm rất tĩnh tịch,
-Không tượng không hình.	Không có tượng cũng không có hình
-Gượng tự đặt tên,		Gượng đặt ra cái tên là «đạo»
-Hy Dy ở đó.			Là cái mà không thể nghe thấy, nhìn thấy được
-Đạm bạc chẳng đợi,		Thuần phác chẳng đợi
-Sinh trước đất trời.		Sinh ra trước cả đất trời.
-Nhuộm mà chẳng đen,		Nhuộm mà chẳng bị đen đi
-Mài mà không khuyết.		Mài mà không bị mòn mất.
-Thuần túy tinh nhất,		Thuần túy tinh chất,
-Có đấng Tiên vàng,		Bèn có vị tiên vàng,
-Sinh nơi Tây Trúc.		Giáng sinh ở nước Tây Trúc. 
-Mười hiệu đầy đủ,		[Ngài] có mười danh hiệu đầy đủ
-Tứ hoằng rộng ban.		Mở rộng bốn thệ nguyện lớn.
-Tu đủ lục độ,			Đều tu hết sáu mức độ,
-Học sâu đạo Thiền.		Nghiên cứu cái vị gốc của đạo.
-[………thương…….]		[………thương…….]
-Giác đuổi hư ngụy,		Giác ngộ [nên đã] dẹp được hết điều hư ngụy,
-Lập giáo diệu huyền.		Dựng lập nên giáo pháp thanh tịnh.
-Đạo quy chân tính,		Đạo quy về với cái bản tính chân thường,
-Khiến lặng như non.		Khiến chân tính ấy tĩnh lặng như núi. 
-Ba cõi chiêm ngưỡng,		Ba giới [thấy vậy] thảy đều ngưỡng vọng ngài,
-Mười phương hợp duyên.	Mười phương [thấy vậy] đều hồi hướng về.
-Thầy vâng mệnh Phật,		Phật Thích Ca vâng mệnh đấng Từ Nhan,
-Cứu vớt dân lành.		Đã thi hành việc cứu vớt, tế độ.
-Băng tan, bọt nổi,		[Thấy đời người tựa như ] bọt nổi, băng tan, 
-Chán ở nhân hoàn.		[Nên ngài] chán cõi nhân gian.
-Cầu vồng rực rỡ,			Cầu vồng trắng vút lên ánh sáng,
-Phủi áo về ngàn.		Phất áo ở chốn rừng song thụ.
-Kim dung dấu bóng,		Dung nhan vàng xế bóng,
-Sáp lan nhuần thân.		Sáp lan tẩm nhuần thân.
-Chiên đàn làm củi,		Gỗ chiên đàn làm củi,
-Khói vương hỏa đàn.		Lửa hỏa thiêu, khói lan.
-Lửa thiêu vừa lụi,		Lễ trà tỳ vừa dứt,		
-Xá lị ngưng thành.		Xá lị đã ngưng kết nên.
-Đầy mâm đầy chậu,		Đầy mâm đầy bàn,
-Năm sắc rỡ ràng.			Hoặc rạng năm sắc,
-Hoặc thành chín vẻ,		Hoặc rõ chín màu.
-Lung linh chói chang.		Lấp lánh chói sáng.
-Thiên cung hoàn vũ,		Trong cõi âm giới,
-Âm giới dương gian.		Cung trời, nhân gian.
-Bốn loại Quốc vương,		Bốn loại quốc vương,
-Cùng về nhộn nhịp.		Thì cùng tụ họp về.
-Tranh đua sức mạnh,		Ganh đua sức hùng cường,
-Xưng tướng xưng hùng.		Ai nấy đều là danh tướng.
-Hòm vàng năm lớp,		Hòm vàng năm lớp,
-Êm bánh xe rồng.		Bánh xe rồng đi êm đềm.
-Tháp cao nghiêm dựng,		Kính cẩn dựng tháp báu cao ngất,
-Từ nay vô cùng.			Từ đó về sau.
-Tháng dài năm rộng,		Năm tháng lâu dài,
-Sùng phụng tôn thờ.		Không đời nào là không phụng thờ.
-Đến triết vương ta,		Đến bậc triết vương triều ta,
-Truyền giữ càng quý.		Truyền đạo, hộ pháp càng thêm quý trọng,
-Theo chí người xưa,		Noi theo ý nguyện sùng đạo của người trước,
-Hướng về Long Đội.		Dõi về núi Long Đội,
-Điện tháp hùng vĩ,		Dựng lên chùa tháp hùng vỹ diệu kỳ,
-Cao vượt trùng mây.		Cao vút mất tầng mây.
-Tầng trên cất giữ,		Tầng trên cùng thì cất chứa xá lị,
-Tuôn ánh thần quang.		Ánh sáng thần kỳ tỏa ra chói lọi.
-Điềm sinh vua sáng,		Tỏ điềm lành minh quân,
-Sông núi đẹp tươi.		Núi sông thanh tú.
-Mây ráng hòa hợp,		Ráng khói ngùn ngụt,
-Cách biệt bụi trần.		Xa cách bụi trần.
-Vua ghi tên đẹp,			Ngự đề tên đẹp,
-“Sùng Thiện Diên Linh”.	Sùng Thiện Diên Linh.
-Cầu dài tuổi thọ,			Cầu thọ càng thọ,
-Tháng tốt ngày lành.		Giờ đẹp ngày lành.
-Họp nhau khánh chúc,		Cõi phúc viên mãn,
-Quả phúc viên thành.		Cùng nhau chúc tụng.
-Viếng chùa tấp nập,		Tụ hội cảnh chùa,
-Mây tụ đỉnh non.		Mây đậu trên đỉnh núi.
-Sáng lòng thanh tịnh,		Lòng trong thanh tịnh,
-Đài nghê bước lên.		Bước lên đài nghê.
-Rì rầm tụng niệm,		Lầm rầm tụng niệm như tiếng thủy triều,
-Tụ hội trời, người.		Tập hợp cõi trời lẫn cõi người,
-Trống chuông gióng giả,		Chuông trống náo nức, rộn rã,
-Hương trầm ngạt ngào.		Hương trầm cuồn cuộn,
-Gấm vóc khoe xuân,		Gấm vóc tranh đua vẻ xuân.
-Phúc tuệ nay hưởng.		Được thừa hưởng phúc đức và trí tuệ này.
-Tù ngục cùm gông,		Những kẻ bị tù ngục, trói cùm,
-Khổ đau đều thoát.		Đều thoát u mê, ngu độn.
-Thần được chép việc,		Thầm trộm chép lại việc lành,
-Học chẳng là bao.		Học hành chưa được ba đông [ba năm].
-Tài kia không đủ,		Tài cũng chẳng đủ đọc hết năm xe sách.
-Ghi sáng công vua.		Công nghiệp của nhà vua rực rỡ,
-Mở tung mọi cửa,		Mở hết các cửa,
-Bốn biển về chung.		Bốn bể đều hội về cùng.
-Ca ngợi vua ta,			Cùng ca ngợi vua ta,
-Dài cùng trời đất.		Lâu dài như đất trời.
+  Ôi! 
+  Thể tính diệu huyền, ánh linh quang chừ chẳng ngoài chẳng trong, sừng sững khi vật chất mới nhào; 
+  Công dụng mênh mông, cõi bao la chừ đúc hình đúc dáng, tràn đầy nơi hư không chất chứa. 
+  Chăng hình thể để tiện suy lường; không dấu tích làm sao tìm kiếm. 
+  Bao trùm dáng vũ trụ vô cùng, há dễ coi xem; 
+  Hoà trộn ánh nhật nguyệt quang hoa, lẽ nào trông thấy. 
+  Tùy tạo hoá then máy vần chuyển, nghiễm nhiên còn đó; 
+  Theo âm dương đắp đổi nhặt khoan, màu nhiệm vẫn nguyên. 
+  Há chẳng huyền diệu sao?
+  Kỷ cương dưới trên đà lập; quy mô bồi đắp đã hưng. 
+  Bốn mùa qua mà đuốc ngọc điều hoà; 
+  Quỹ đạo chuẩn mà toàn cơ vận động. 
+  Muôn loại bời bời; các duyên tế toái. 
+  Chúng sinh nhờ đó tỏ danh; vạn vật bởi đây thoả tính. 
+  Đó chẳng phải là tràn đầy hay sao? 
+  Như vậy thì, biện biệt cơ vi, truy cầu chung thuỷ, chẳng cũng khó thay!
+  Duy họ Đại Hùng ta: 
+  Ứng vận thời cổ; hiển linh Tây Trúc. 
+  Giữ trọn ba nghìn uy nghi; có vẹn ba hai tướng lạ. 
+  Mười hiệu đầy đủ; trăm phúc trang nghiêm. 
+  Thấu lẽ tinh vi; tỏ điều thuần tuý. 
+  Thương quần sinh say sưa cái “thức”; xót bốn loài mê lẫn điều “chân”. 
+  Ngọc quên ngực áo mà chẳng tự hay; rắn chứa tráp hòm mà không tỉnh ngộ. 
+  Cho nên, 
+  Làm nên đạo pháp sữa mầu; nuôi kẻ kinh niên đói khát. 
+  Thắp ngọn đèn thêm xán lạn; đốt u ám trải bao năm. 
+  Khiến thiên tâm sóng động được yên; làm vọng tính mê lầm được định. 
+  Cho nên, 
+  Tam giới quy y; thập phương hồi hướng. 
+  Trụ trần thế bảy mươi chín năm; giữ thiết pháp tám tư nghìn cửa. 
+  Rằng: dấu lẫn bụi trần; thân tùy hư ảo. 
+  Thế rồi, 
+  Kim thân lịm sắc: rừng Song Thụ; hào quang vọt sáng: chốn thiên không. 
+  Lụa tằm tơ bọc lấy vẻ thần; sáp lan tía tẩm nhuần thân báu. 
+  Tín tâm hâm mộ, dâng chiên đàn để làm củi; 
+  Giác tính linh thông, ứng trà tỳ mà hóa thiêu. 
+  Khói đàn tắt hết; xá lị kết nên. 
+  Tựa ngọc trai sáng vầng nguyệt tỏ; giống trân châu ánh giọt sương trong. 
+  Hoặc chói rạng năm sắc; hoặc trong vắt chín màu. 
+  Tràn mâm đầy hộc; khác tục siêu phàm. 
+  Hoàng đế long vương, trên trời dưới đất, thời đều tề tựu, giác tướngchia nhau. 
+  Trân tiếc thì đem hộp vàng cất đựng; cẩn thận thì cầm gươm quý canh phòng. 
+  Đều chọn chốn yên, tùy nơi cất trữ. 
+  Hoặc trên đỉnh Hương Sơn, hoặc giữa miền nhân thế;
+  Hoặc trong triều ngoài nội, hoặc giữa chốn Long cung. 
+  Chùa chiền bảo tháp, thần vật cất cao. 
+  Từ xưa tới nay, lưu truyền bất hủ. 
+  Hưng công kế nối, cũng chẳng thịnh ru?
+  Kính nghĩ: 
+  Thánh hiển Thể đạo, Thánh văn Thần vũ, Anh cách Dân vật, Vạn linh Chiếu ứng, Vĩnh long Nguyên hóa, Thông minh Quảng vận, Nhân trí Ý nghĩa, Thuần thành Minh hiếu Hoàng Đế bệ hạ nhà Lý ta. 
+  Thiên địa đúc tinh, nhật nguyệt kết túy. 
+  Điềm lành báo trước, triệu tốt mở ra. 
+  Phụ hoàng nhập mộng, nước ngoài dâng voi trắng sáu ngà; 
+  Mẫu hậu hoài thai, gác tía phủ rồng vàng năm sắc. 
+  Đó là điềm báo lúc Bệ hạ đầu thai vậy.
+  Sao lành chói hiện, ngân hà ứng nét trăng non; 
+  Mây tốt sáng bay, bệ ngọc khoe màu lụa bạc.
+  Khí vui bỗng vút thẳng trời xanh; hương lạ chợt ngát đầy cung cấm. 
+  Mười tháng hoài thai khi tròn cữ; ba dương xuân tiết lúc Thánh sinh. 
+  Đó là điềm báo Bệ hạ giáng trần vậy.
+  Ấu thơ mà đăng quang ngôi báu, trời đất khuông phò; 
+  Trẻ mỏ mà thống ngự non sông, thần người giúp dập. 
+  Ngươi rồng mắt phượng, trong ngọc trắng băng. 
+  Mắt trong veo mà đen trắng phân minh, khác ngươi hai tròng Thuấn đế; 
+  Tai thọ trường mà thành quách cao dầy, hơn tai ba lỗ Hạ vương. 
+  Thân cao mà lớn, chân chắc mà dầy. 
+  Da nhuần tựa ngọc mài, trán ngời như châu sáng. 
+  Thực nghìn năm đúc anh minh, vượt trăm vua phô kỳ tú. 
+  Đó là vẻ đoan nghiêm của Bệ hạ vậy.
+  Ơn tưới muôn vật; trí vượt gió mây. 
+  Sách Nho sách Phật, uyên áo tỏ tường; 
+  Pháp thuật pháp quyền, gồm thâu yếu chỉ. 
+  Lời tinh diệu ghi tạc đá vàng, sáng lòa Bắc Cực; 
+  Hiệu tốt lành chói ngời điện tháp, ánh chiếu xưa nay. 
+  Tinh phi bạch, rất đỗi thần kỳ; thảo bút ngự, vô cùng tuyệt diệu. 
+  Thế tựa rồng bay phượng múa, phép viết từ tay ngọc viết ra; 
+  Hình như loan liệng thước chao, thể chữ tự lòng vua chữ hiện. 
+  Chạm biển vàng đặt chốn Phạn cung; khắc bia ngọc dựng nơi Đạo quán. 
+  Tứ thơ tóm đất trời biến hóa; điệu nhạc hoà Đường Phạn đồng âm. 
+  Thư pháp thì cùng cứu huyền cơ; cung nỏ thì tinh thông diệu thuật.
+  Đó là Bệ hạ tài nghệ quán thông vậy.
+  Trung thu cảnh đẹp, muôn việc nghỉ ngơi. 
+  Lòng hiếu mở mà soạn cỗ bàn; lễ lạt bày để dâng hoàng khảo. 
+  Lại sớm mùng ba; sửa sang xa giá. 
+  Cưỡi ngựa báu ra ngoài điện đỏ; lên xe châu ruổi ở đường vàng. 
+  Quạt lông trĩ buộc ở hai bên; dây nạm bạc néo từ bốn phía. 
+  Trời biếc lọng vàng; cờ màu nắng tuệ. 
+  Tinh tú giong bờ liễu; Bắc Đẩu chuyển đường hoa. 
+  Xuôi Trường Lô dòng xanh; ngự Linh Quang điện báu . 
+  Nghìn thuyền đi chớp giật giữa dòng; muôn trống dội sấm vang dậy nước. 
+  Dưới hiên ngọc, thết chư hầu hội họp; trong thềm son, tấu chương biểu sứ tiên. 
+  Dập dờn lòng sóng, thả rùa vàng đội ba đỉnh núi; 
+  Thung dung mặt nước, phô giáp vằn lộ bốn cột chân. 
+  Hướng mắt nhìn bờ, há miệng phun bến. 
+  Ngửa trông đó mặt rồng, cúi xét ấy trời thẳm. 
+  Ngóng vách đá cheo leo, tấu nhạc Thiều réo rắt. 
+  Cửa động lặng mở, thần tiên sánh vai. 
+  Ấy dáng phong tư thượng giới; há vẻ kiều diễm trần ai. 
+  Uốn tay thon hiến khúc Hồi phong, cong mày biếc ca lời thịnh trị. 
+  Chim quý họp bầy, thảy đua dáng lượn bay; 
+  Hươu lành thành đội, tự xắp hàng vờn nhảy. 
+  Gặp lúc: 
+  Bóng ác về tây; kiệu xe sắp lại. 
+  Đến giữa đường bằng phẳng; ở ngoài cõi Quảng Thiên. 
+  Dõi đài cao về mặt đất, xây lưng bí đội ba non. 
+  Trước mâm son mà cất cổ; đem thân tĩnh mà lê đuôi. 
+  Chim xuyên mây mà ríu rít; hổ xuống núi mà oai phong. 
+  Trổ tài dũng mãnh ; thú nhỏ xé nhai. 
+  Hội Thượng Lâm đệ tử; cầm lọng trĩ cán son. 
+  Tiếng thét vang tiến đến trước vua ; đắp bãi rộng làm trường săn bắn. 
+  Cung giương chân chạy ; kiếm tuốt ngựa giong. 
+  Thoắt cái người khoe dũng ; thoắt cái kẻ tranh hùng.
+  Mến lân bang nên bồng trẻ dắt già ; gọi chư hầu mà băng sông vượt núi. 
+  Căng mắt ánh trời ; thỏa lòng mong gặp. 
+  Nơi nơi đều sức trang gấm vóc ; năm năm cùng hòa mục ba hôm. 
+  Đưa người đời lên chốn Hồ Thiên; đặt muôn dân vào miền lạc quốc. 
+  Đó là việc Bệ hạ nhìn rộng mà sáng chế rùa vàng vậy.
+  Mưu thánh tỏ thần diệu ; thuyền ngự chế tinh kỳ. 
+  Đặt hạm tàu khí ngút oai hùng; đóng nghìn thuyền dáng trông tú lệ. 
+  Dựng lầu gác chọc mây; trồng cột diềm ngất núi. 
+  Giữa đặt điện vẽ cao vút, để nhà vua phóng mắt nhìn xa; 
+  Cạnh phô hàng gấm xa hoa, cho ngự nữ sẵn sàng hầu cận. 
+  Dốc muôn báu vật trang hoàng ; xây đủ ba cung phòng ốc. 
+  Giữa dòng nắng mai, ngỡ giao long nhả hơi chặn sóng; 
+  Trên bến bóng chiều, tưởng kim ngao đội núi ngang mây. 
+  Đó là sự tinh xảo trong việc chế tạo thuyền ngự của Bệ hạ vậy.
+  Rộng vận thần công ; cả suy thánh đoán. 
+  Tinh sửa thắng sự ; chăm tới lương duyên. 
+  Dựng đài cao Quảng Chiếu ; hướng sân trước đoan môn. 
+  Trong nêu một cột ; ngoài đặt bảy tầng. 
+  Thân rồng uốn mà đỡ sen vàng; lụa thêu lồng mà che hoa chúc. 
+  Giấu cơ vi ở dưới đất, chuyển tròn bánh xe; 
+  Rực ánh sáng ở giữa trời, chói lòa mặt nhật. 
+  Lại có: 
+  Bảo Thánh vẻ nghiêm; điện vàng hoa ngọc. 
+  Do ý Thần dựng nên; đặt tượng Phật hai dãy. 
+  Dáng chép linh văn; hình phô bóng bẩy. 
+  Lại có: 
+  Lầu hoa hai chiếc; trong buộc chuông vàng. 
+  Khắc tăng nhân, thân mặc cà sa, chuyển lẫy ngầm, giơ chày thúc tiếng; 
+  Nghe tiếng giáo, mặt nên nghiêm túc, nhìn thánh minh, khom cật giập đầu. 
+  Thảy đó ý vua; động tĩnh như thật. 
+  Lại có : 
+  Long lanh phù đồ phô thất bảo, xếp một hàng thứ tự bên nhau. 
+  Chính giữa thì một đỉnh vàng: 
+  Đặt tượng lành Như Lai Đa Bảo; bày chân hình xe phép mấy tầng. 
+  Mái hiên lấp lánh ánh ban mai; vẻ ngói huy hoàng mờ mây biếc. 
+  Thứ đến, hai tòa bạch ngân: 
+  Trái đặt chân tượng A Di Đà; phải chứa xá lị  Diệu Sắc Thân. 
+  Chóp dang thế mạnh; đao xoải cánh bay. 
+  Lung linh khinh tuyết trắng đang tan; rực rỡ mờ trăng thu vừa rạng. 
+  Thứ nữa lại có hai tòa tháp bằng gỗ mun: 
+  Trái đặt Quảng Bác Thân nhân từ; phải đặt Ly Bố Úy diệu tướng. 
+  Đã xong gác lớn; lại dựng lầu cao. 
+  Mái chồng ngói ngọc; vách trổ dáng rồng. 
+  Lại thêm, hai tòa tháp ngà: 
+  Trái chạm dung nghi Cam Lồ Vương; phải đặt diệu tướng Bảo Thắng Phật . 
+  Giũa mài chất quý; cao dựng cột hiên. 
+  Các góc nạm ngọc hiếm; các khe khảm sừng tê. 
+  Lại thảo bút văn chương hoa lệ; đều khắc vào bên mé tòa sen. 
+  Phơi lòng thành tuyết trắng; soi rọi mãi muôn sau. 
+  Mà lại, 
+  Đem ngũ sắc vẽ chín tầng trời; dùng đối liễn khắc bốn thân cột. 
+  Đôi bên chói điểm nghìn đèn; hai mặt trang nghiêm kim tướng. 
+  Khá nói: 
+  Vượt xa chế độ cổ kim; trội hẳn sinh thành tạo hóa. 
+  Nghiêng hòa vui thiên hạ, đêm trở thành ngày; 
+  Rộng mắt lòng thế gian, già nay trẻ lại. 
+  Đó là công lao khéo xây dựng thắng duyên của Bệ hạ vậy.
+  Tôn sùng đạo Phật, hâm mộ mống lành. 
+  Noi Tây Cấm danh lừng thượng uyển; mở Diên Hựu chốn đó danh lam. 
+  Theo quy chế vốn có trước kia; Ra mưu tính ý vua nay tỏ.  
+  Đào ao thơm mang tên Linh Chiêu; giữa ao kia cột đá vọt đứng. 
+  Đỉnh cột nở ngàn cánh hoa sen; hoa đặt vững một tòa điện tía. 
+  Trong điện đặt Thích Ca kim tướng; ngoài ao dựng họa lang bọc quanh. 
+  Ngoài hành lang lại đào ao Bích Trì khơi vòng, đều bắc các cầu vồng thông vào. 
+  Sân nơi cầu trước, tả hữu dựng tháp báu lưu ly. 
+  Để sáng mồng một hàng tháng, để mùa xuân hàng năm, nhà vua thân ngồi xe ngọc, đến mở tiệc chay. 
+  Hương hoa bày nghi thức cầu an; Ang nước đặt lễ nghi tắm Phật. 
+  Ngũ chúng vẽ hình dung cẩn thận, đều hở vai tiến thoái trang nghiêm; 
+  Tứ phương đặt mấy đội Thiên vương, giơ pháp khí bồi hồi dâng múa. 
+  Tinh cần chẳng trễ; kính phụng theo thời. 
+  Vì vậy mà: 
+  Tạo hóa linh thông; đều cùng phù hựu. 
+  Đó là Bệ hạ dựng Phạn Sái để cầu phúc thọ vậy.
+  Trên đang rủ áo; dưới giúp lân bang. 
+  Bỗng bọn biên lại trở mặt; gây nên hiềm khích bất hòa. 
+  Sao giong đánh địch; sấm động chống thù. 
+  Ung Châu giặc ức nghìn, sụp vỡ như gió cuốn sương; 
+  Như Nguyệt quân trăm vạn, tan tành như băng phơi nắng. 
+  Ngoài biên tái, tướng tự lo; trong cửu trùng, vua mưu quyết. 
+  Rồi sau, 
+  Đưa hoàng cực lên cõi thanh bình; dẫn sinh dân đến nơi giàu thọ. 
+  Quạt gió nhân mà giáo hoá; ra ơn huệ để đỡ đần. 
+  Hoàn vương Sạ Chế, lìa hoàng cung đến cửa khuyết, xin làm thứ dân; 
+  Quốc chủ La Vu, bỏ giang san tới sân đình, nguyện thành tôi tớ. 
+  Dốc ý hồi hóa; nghiêng lòng hướng dương. 
+  Gần đây, mán lào Ma Sa, cậy non sông hiểm, mang lòng sói lang, không theo thánh hóa. 
+  Vua ta nổi giận; xa giá khởi hành. 
+  Mãnh tướng như mây theo; mưu thần như mưa họp. 
+  Dàn quân đội ở đồng nội; đánh đám loạn tính bất trung. 
+  Bao tù trưởng đều bắt sống, Bao đầu sỏ thảy bỏ tù. 
+  Còn lại thì, 
+  Máu giây cây cỏ; xác ải khe rừng. 
+  Thả hùm thiêng bắt chuột, khó chi; lăn đá to chọi trứng, cũng dễ! 
+  Đó là khi Bệ hạ dùng võ dùng mưu vậy!
+  Lê dân hoà mục; bách tính yên vui. 
+  Xuân xem dâng ngọc; thu thuật chức danh. 
+  Họp mấy vạn chư hầu mà ban yến thưởng; xây ba bậc bảo đài mà diễn quần tiên. 
+  Lợp ngói bạc mà ánh chiếu trời xanh; ken sen vàng mà hoa phô tướng báu. 
+  Đỉnh điện thì linh điểu vút đứng; bốn góc thì xi vẫn ganh đua.   
+  Lọng dệt thất trân; dải đeo trăm báu. 
+  Thềm trên ngôi chính, thánh thượng rủ áo khoanh tay; 
+  Bậc giữa dưới cùng, kỹ nữ như tiên vây kín. 
+  Sân bày trăm quan, đều cùng nhảy múa. 
+  Ra sức thiên tài mà khoe diệu khúc; vỗ dân phiên thuộc mà về ấp Phong. 
+  Vút tầng không mà giọng át mây bay; hoà tiếng sáo mà ơn nhuần thôn xóm. 
+  Đó là Bệ hạ tu văn sửa đức vậy !
+  Làm chân chúa của đất trời; xét huyền cơ của tạo hoá. 
+  Mưu lược biến thông; anh minh choán khắp. 
+  Rành rẽ thanh âm bốn cõi; tinh tường kỹ thuật trăm nghề. 
+  Chế vũ điệu tuyệt luân; múa hân hoan đời thịnh. 
+  Lại soạn: 
+  “Giáng vân tiên tử”, hát tiếng véo von, ngợi ca công nghiệp triết vương; 
+  “Xuất liên bảo vụ ”, uốn hình yểu điệu, chúc tụng lòng nhân giáo hoá. 
+  Đó là sự tính toán diệu kỳ của Bệ hạ vậy !
+  Đức sánh đất trời, nên năm sao tỏ bùa; 
+  Ơn tới cá chim, thì muôn loài dâng phúc. 
+  Mười tám rồng thần, phô sáng chốn thềm quỳnh bảo điện; 
+  Một nghìn voi trắng, khoe điềm nơi hiên ngọc cấm cung. 
+  Tỏ rõ ngôi báu khá miên trường; tương hợp phúc lành thêm xương thịnh. 
+  Cho nên: 
+  Trời rạng điềm thiêng ; rừng phô vật lạ. 
+  Lại thấy một con voi thần: 
+  Dáng hình khôi kỳ đẹp đẽ; vòi trán rạng rỡ thần quang. 
+  Nghiệm văn vẻ mà thanh tịnh có thừa; bẩm thông minh mà chiêu chương vô tận. 
+  Ngự hiệu là “ Siêu Quần Thần Tượng ”. 
+  Ưu đàm hương kết; xá lị ngọc phô. 
+  Cỏ cây dâng phúc; thần vật báo điềm. 
+  Tỏ ơn sâu vô cùng; truyền phúc lớn bất tận. 
+  Cỏ thiêng hai lần xuất hiện; hươu trắng sáu lượt tìm về. 
+  Nai trắng lại một con; hoẵng đen về một cặp. 
+  Thừa mệnh sáng thượng đế lâu dài; giữ hoà hợp phúc trời mãi mãi. 
+  Tới tấp tỏ điềm hay; song song phô vẻ lạ. 
+  Rùa nghìn đốm mà năm màu; sen hai gương mà một nhánh. 
+  Ơn khắp suối khe; điềm sinh giải trãi. 
+  Cảm dân chúng thêm yên bình; tỏ xã tắc càng hưng vượng. 
+  Trăng trùng vầng náu tầng mây; vàng khe tối còn khoe sắc. 
+  Chứng tỏ: sáng thì có lúc; chứng tỏ: tối cũng có chừng. 
+  Cho nên, 
+  Tượng trời cát tường; nguồn sâu dâng phúc. 
+  Một thân cau tía, nảy lắm chồi thiêng. 
+  Tìm phên giậu mà bảo vệ trung ương; kiếm khắp trời mà bù trì thánh chúa. 
+  Thiều quang chín chục; tiết đến năm dương. 
+  Chuột chuyển lông sương; tùng sinh tán lọng. 
+  Như tổ hạc mà tỏ lạ, hẹn thỏ ngọc để dâng bùa. 
+  Hòa bốn bể thanh bình; hợp muôn dân hòa mục. 
+  Sẻ trắng, cưu vàng vừa đỗ; rồng ngọc, cò trắng mới trình. 
+  Bày dung nghi thanh khiết, tỏ rõ “duy nhất duy tinh”; 
+  Thay chất cũ chân thường, bắt chước “khắc khoan khắc nhân”. 
+  Chiêu dao lặn, rành rành ngựa ký sinh ra; 
+  Cựa mọc lông, rờ rỡ trâu đen xuất hiện. 
+  Đàn nhạn hợp mà phương xa thần phục; mãnh hổ vờn mà khắp chốn sợ oai. 
+  Phượng hoàng kết đôi; tuyết lành dày đọng. 
+  Hoa tuyết dầy một thước; thời đại rõ thái hòa. 
+  Đem chim phượng chín vẻ khác thường; so đàn cò một hàng sắp đặt. 
+  Quạ trắng đua nhau đến; ngỗng trời xoải cánh bay. 
+  Tỏ rõ sự tinh cần báo hiếu; cảm thông lòng thuần hậu thảo hiền. 
+  Niệm Kinh trọn cuốn mà ai kẻ so bì; 
+  Chúc Thánh muôn năm mà lệ thường đã định. 
+  Cau quý ngậm châu, nhành dương rưới ngọc. 
+  Cửu long chạy đàn quanh lối, điềm lành châu báu sánh đua; 
+  Dáng vẻ tràn đầy khắp nơi, triệu tốt phương xa vượt tới.
+  Đẹp thay! 
+  Chịu phúc dày trời đất; thừa mệnh lớn tổ tông. 
+  Hơn năm mươi năm trị quốc; hàng trăm nghìn nước phục uy. 
+  Mưa đúng tiết thời; sao theo triền độ. 
+  Thường nghĩ: 
+  Nhà nông là gốc; chính trị trọng xem. 
+  Tuy bao năm đích thân làm lụng; mà chăm chắm chăng lúc nghỉ ngơi. 
+  Ngày tháng năm mùa hè, niên hiệu Hội Tường Đại Khánh thứ 9 (1118): 
+  Cưỡi xe phượng chơi cõi tiên; cưỡi thuyền rồng lòa nắng báu. 
+  Nắng đẹp sóng yên, khói tan triều rặc. 
+  Qua sông Lô dằng dặc, thấy núi Đọi lên bờ. 
+  Tuy thế núi chênh vênh, nhưng đỉnh non bằng phẳng. 
+  Vua sai buộc thuyền vào bến, gọi các quan tòng giá mà bảo rằng: 
+  - Trẫm muốn dựng ngôi chùa phúc ở núi này liệu có được chăng?
+  Tả hữu cùng bước ra tâu:
+  - [Chúng thần] nghe các cụ già trong làng kể lại: Núi này cứ đến đầu xuân thì trời thường mưa để tưới muôn dân. Rất đáng thi công, vui thành thiện quả. 
+  Rồi lại xin đặt tên núi này là Long Đội, nhà vua chuẩn y. Bèn hạ lệnh cho viên quan coi việc thiên văn xác định phương hướng: 
+  Mặt chùa hướng sông Kinh, gió lặng như thêu lụa biếc; 
+  Lưng chiền xây núi Điệp, mưa tan thêm rạng the xanh. 
+  Phải thì khống chế bình nguyên, trông tới Càn Hưng lũy cũ; 
+  Trái thì men theo lạch nhỏ, hội cùng sông Mạc ra khơi. 
+  Chiếu cho thợ mộc, nảy mực căng dây. 
+  Thí của mà rõ thêm công đức, xót tiền dân dốc sức lâm hành; 
+  Chuyển gỗ mà hết sức thần kỳ, thuê thợ thuyền trổ tài khéo léo. 
+  Đẽo đá mân cứng làm đấu, mài đá vũ xanh dựng hiên. 
+  Dựng mười ba tầng chọc sông ngân; mở bốn mươi cửa nghênh gió mát. 
+  Vách chạm hang rồng; góc treo chuông ngọc. 
+  Tầng trên chứa hộp thiêng xá lị, vì đời thịnh mà tỏa hào quang; 
+  Đỉnh mái đặt tiên khách bưng mâm, giương trời cao mà hứng sương ngọc. 
+  Tầng dưới chia tám tướng khôi ngô, vây quanh có thần nhân chống kiếm. 
+  Tòa giữa đặt tượng Đa Bảo Như Lai: nguyện lực sâu rộng, thà mất toàn thân.
+  Nghe Liên kệ giúp đỡ oai thiêng, vì Ca Văn chia đôi tòa báu. 
+  Treo phướn châu rực rỡ ; cắm lọng tía lung linh. 
+  Thềm sân tam cấp xuống lên; hành lang hai bên tả hữu. 
+  Phía dưới, bên trái dựng cung tứ giác: 
+  Ôm hai rồng mà trấn đất; đội tám tướng chầu trời. 
+  Nêu khí tượng cho danh sơn; truyền thánh công cho hậu thế. 
+  Bên hữu chùa, dựng nhà khám nhọn vuông, trong đặt Tân Đầu hòa thượng khi bị đày ra Ma Lê sơn. Nhận lời dặn của Như Lai, vì chúng sinh mà chứng phúc. 
+  Bậc dưới, trước xây gác Lăng Hán: 
+  Treo chuông đồng Thú Sơn ; buộc chầy kình Bích Hải. 
+  Đánh thì tiếng vọng cung trời, nghe thì kiếm dừng địa ngục. 
+  Quây tường bao để nghiêm giữ, chứa hiên vũ để phô trương. 
+  Bắc cầu mở rộng đường đi, trồng thông xắp thành hai dãy. 
+  Dốc lòng thành tôn sùng diệu quả, muốn cho lịch số dài lâu; 
+  Hết kiểu lạ trùng thiềm điệp ốc, chúc cho tuổi vua trường cửu. 
+  Cho nên ngự đề là Sùng Thiện Diên Linh bảo tháp.
+  Tháp này bắt đầu xây từ mùa hạ năm Hội Tường Đại Khánh thứ 9 (1118) đến mùa Thu năm Thiên Phù Duệ Vũ thứ hai (1121) thì hoàn thành. 
+  Nhân lúc rảnh mà hưng công; gặp được mùa mà dựng lập. 
+  Trải qua ba vụ cày, bốn mùa lúa chín, sau mới hoàn tất. 
+  Đến khi khánh tạ lạc thành: 
+  Sai Phụng Thường chỉnh đốn kiệu xe; cám Phong Bá dọn quang bụi bặm. 
+  Khói trầm hương: mù dệt núi khe; bóng cờ phướn: ráng tan đường xá. 
+  Chiêng trống vang lừng; khánh chuông ánh ỏi. 
+  Trước dẫn xe mây Tam bảo; sau xoay kiệu báu một người. 
+  Đốc xanh đỏ sáu cung; đón trẻ già muôn nước. 
+  Nhà hoa chắn trước; đài Thứu giữa bày. 
+  Hội tì kheo trai khiết; diễn Giác đế chân kinh. 
+  Thánh đế nghiêm trang, dứt kệ rồi thành tâm dập trán; 
+  Cung nga khép nép, nghe kinh xong dâng múa đề hồ. 
+  Ban cơm chay như ngọc, cho khách cơ hàn; 
+  Phát của quý tựa sông, cứu dân cùng khổ. 
+  U - hiển đều về; rồng- trời cùng tụ. 
+  Đem: công lực tối thượng, ruộng phúc vô biên. 
+  Ca ngợi kỷ cương, sánh vuông tròn mà vĩnh cửu;
+  Cầu mong vận nước, cùng nhật nguyệt để chiếu soi. 
+  Sớm sinh Thái tử; nối mãi số trời. 
+  Mong cho gia tộc trăm đời; cầu cho xã tắc muôn thuở. 
+  Muôn phương cỏ rạp; vạn nước hướng dương. 
+  Thần dân yêu mến; tiên tổ hộ phù. 
+  Thần đạo ngầm phò; trời người đều giúp.
+  Thái Tổ- Thái Tông - Thánh Tông Hoàng đế: định xong bốn bể, nhẹ gót lên tiên, nhờ quả phúc này, thảng thích đài sen; 
+  Hoàng tỷ - Phù Thánh - Linh Nhân Thái hậu: chán cõi trần hoàn, ngự nơi khói ráng, gội lương nhân này, siêu sinh Tịnh Độ. 
+  Phàm các vương phi của các vua chư hầu: 
+  Hiền hòa trinh thục; nội trị tinh cần. 
+  Càng nêu tiết tháo nhu hòa; càng tỏ thuần thành thảo thuận. 
+  Đợi sinh Thái tử, điệu nhạc cùng hòa. 
+  Sau cùng xin nguyện: 
+  Nhân dân giàu có; vũ trụ thanh bình. 
+  Xa thư một mối; Nam Bắc văn minh. 
+  Ngũ hành đắp đổi; Bách cốc bội thu. 
+  Biên cương bặt khói; đất nước an lành. 
+  Mà chúng thần thì: 
+  Thẹn bày hàng nhạn ; lạm dự rừng nho. 
+  Ghi chép đã xong, thực nhờ vua sáng. 
+  Công lao nghiêng trời lệch đất, dẫu tài như Uyên- Vân, học như Ban- Mã, cũng khó lòng ghi lại được muôn một vậy. 
+  Rồi lại nghĩ : 
+  Phận rau quỳ, rau hoắc nhỏ nhoi; nhờ được mặt trời, mặt trăng soi tới. 
+  Nghìn năm một thuở, dốc hết lòng ngu. 
+  Gượng cầm ngòi bút, đánh bạo dâng bày.
+Lời minh rằng:
+                                Rất diệu rất tĩnh,			    [Cái đạo] rất mầu nhiệm rất tĩnh tịch,
+                                Không tượng không hình.	    Không có tượng cũng không có hình
+                                Gượng tự đặt tên,		            Gượng đặt ra cái tên là "đạo"
+                                Hy Dy ở đó.			                    Là cái mà không thể nghe thấy, nhìn thấy được
+                                Đạm bạc chẳng đợi,		            Thuần phác chẳng đợi
+                                Sinh trước đất trời.		            Sinh ra trước cả đất trời.
+                                Nhuộm mà chẳng đen,		    Nhuộm mà chẳng bị đen đi
+                                Mài mà không khuyết.		    Mài mà không bị mòn mất.
+                                Thuần túy tinh nhất,		    Thuần túy tinh chất,
+                                Có đấng Tiên vàng,	           	    Bèn có vị tiên vàng,
+                                Sinh nơi Tây Trúc.	           	    Giáng sinh ở nước Tây Trúc. 
+                                Mười hiệu đầy đủ,		            [Ngài] có mười danh hiệu đầy đủ
+                                Tứ hoằng rộng ban.		      Mở rộng bốn thệ nguyện lớn.
+                                Tu đủ lục độ,			            Đều tu hết sáu mức độ,
+                                Học sâu đạo Thiền.		    Nghiên cứu cái vị gốc của đạo.
+                                [………thương…….]		    [………thương…….]
+                                Giác đuổi hư ngụy,		    Giác ngộ [nên đã] dẹp được hết điều hư ngụy,
+                                Lập giáo diệu huyền.		    Dựng lập nên giáo pháp thanh tịnh.
+                                Đạo quy chân tính,		    Đạo quy về với cái bản tính chân thường,
+                                Khiến lặng như non.		    Khiến chân tính ấy tĩnh lặng như núi. 
+                                Ba cõi chiêm ngưỡng,		    Ba giới [thấy vậy] thảy đều ngưỡng vọng ngài,
+                                Mười phương hợp duyên.	    Mười phương [thấy vậy] đều hồi hướng về.
+                                Thầy vâng mệnh Phật,		    Phật Thích Ca vâng mệnh đấng Từ Nhan,
+                                Cứu vớt dân lành.		    Đã thi hành việc cứu vớt, tế độ.
+                                Băng tan, bọt nổi,		    [Thấy đời người tựa như ] bọt nổi, băng tan, 
+                                Chán ở nhân hoàn.		    [Nên ngài] chán cõi nhân gian.
+                                Cầu vồng rực rỡ,			    Cầu vồng trắng vút lên ánh sáng,
+                                Phủi áo về ngàn.		    Phất áo ở chốn rừng song thụ.
+                                Kim dung dấu bóng,		    Dung nhan vàng xế bóng,
+                                Sáp lan nhuần thân.		    Sáp lan tẩm nhuần thân.
+                                Chiên đàn làm củi,		    Gỗ chiên đàn làm củi,
+                                Khói vương hỏa đàn.		    Lửa hỏa thiêu, khói lan.
+                                Lửa thiêu vừa lụi,		    Lễ trà tỳ vừa dứt,		
+                                Xá lị ngưng thành.		    Xá lị đã ngưng kết nên.
+                                Đầy mâm đầy chậu,		    Đầy mâm đầy bàn,
+                                Năm sắc rỡ ràng.			    Hoặc rạng năm sắc,
+                                Hoặc thành chín vẻ,		    Hoặc rõ chín màu.
+                                Lung linh chói chang.		    Lấp lánh chói sáng.
+                                Thiên cung hoàn vũ,		    Trong cõi âm giới,
+                                Âm giới dương gian.		    Cung trời, nhân gian.
+                                Bốn loại Quốc vương,		    Bốn loại quốc vương,
+                                Cùng về nhộn nhịp.		    Thì cùng tụ họp về.
+                                Tranh đua sức mạnh,		    Ganh đua sức hùng cường,
+                                Xưng tướng xưng hùng.		    Ai nấy đều là danh tướng.
+                                Hòm vàng năm lớp,		    Hòm vàng năm lớp,
+                                Êm bánh xe rồng.		    Bánh xe rồng đi êm đềm.
+                                Tháp cao nghiêm dựng,		    Kính cẩn dựng tháp báu cao ngất,
+                                Từ nay vô cùng.			    Từ đó về sau.
+                                Tháng dài năm rộng,		    Năm tháng lâu dài,
+                                Sùng phụng tôn thờ.		    Không đời nào là không phụng thờ.
+                                Đến triết vương ta,		    Đến bậc triết vương triều ta,
+                                Truyền giữ càng quý.		    Truyền đạo, hộ pháp càng thêm quý trọng,
+                                Theo chí người xưa,		    Noi theo ý nguyện sùng đạo của người trước,
+                                Hướng về Long Đội.		    Dõi về núi Long Đội,
+                                Điện tháp hùng vĩ,		    Dựng lên chùa tháp hùng vỹ diệu kỳ,
+                                Cao vượt trùng mây.		    Cao vút mất tầng mây.
+                                Tầng trên cất giữ,		    Tầng trên cùng thì cất chứa xá lị,
+                                Tuôn ánh thần quang.		    Ánh sáng thần kỳ tỏa ra chói lọi.
+                                Điềm sinh vua sáng,		    Tỏ điềm lành minh quân,
+                                Sông núi đẹp tươi.		    Núi sông thanh tú.
+                                Mây ráng hòa hợp,		     Ráng khói ngùn ngụt,
+                                Cách biệt bụi trần.		    Xa cách bụi trần.
+                                Vua ghi tên đẹp,			    Ngự đề tên đẹp,
+                                “Sùng Thiện Diên Linh”.	    Sùng Thiện Diên Linh.
+                                Cầu dài tuổi thọ,			    Cầu thọ càng thọ,
+                                Tháng tốt ngày lành.		    Giờ đẹp ngày lành.
+                                Họp nhau khánh chúc,		    Cõi phúc viên mãn,
+                                Quả phúc viên thành.		    Cùng nhau chúc tụng.
+                                Viếng chùa tấp nập,		    Tụ hội cảnh chùa,
+                                Mây tụ đỉnh non.		    Mây đậu trên đỉnh núi.
+                                Sáng lòng thanh tịnh,		    Lòng trong thanh tịnh,
+                                Đài nghê bước lên.		    Bước lên đài nghê.
+                                Rì rầm tụng niệm,		    Lầm rầm tụng niệm như tiếng thủy triều,
+                                Tụ hội trời, người.		    Tập hợp cõi trời lẫn cõi người,
+                                Trống chuông gióng giả,		    Chuông trống náo nức, rộn rã,
+                                Hương trầm ngạt ngào.		    Hương trầm cuồn cuộn,
+                                Gấm vóc khoe xuân,		    Gấm vóc tranh đua vẻ xuân.
+                                Phúc tuệ nay hưởng.		    Được thừa hưởng phúc đức và trí tuệ này.
+                                Tù ngục cùm gông,		    Những kẻ bị tù ngục, trói cùm,
+                                Khổ đau đều thoát.		    Đều thoát u mê, ngu độn.
+                                Thần được chép việc,		    Thầm trộm chép lại việc lành,
+                                Học chẳng là bao.		    Học hành chưa được ba đông [ba năm].
+                                Tài kia không đủ,		    Tài cũng chẳng đủ đọc hết năm xe sách.
+                                Ghi sáng công vua.		    Công nghiệp của nhà vua rực rỡ,
+                                Mở tung mọi cửa,		    Mở hết các cửa,
+                                Bốn biển về chung.		    Bốn bể đều hội về cùng.
+                                Ca ngợi vua ta,			      Cùng ca ngợi vua ta,
+                                Dài cùng trời đất.		    Lâu dài như đất trời.
 Dựng bia ngày 6 tháng Bảy năm Tân sửu, niên hiệu Thiên Phù Duệ Vũ thứ 2 (1121).
 Nguyễn Công Bật, giữ chức Triều liệt Hình bộ Thượng thư, Binh bộ Viên ngoại lang, Đồng tri Phiên công viện chư sự, vâng sắc chỉ soạn văn bia.
 Lý Bảo Cung giữ chức Hữu thị lang, Thượng thư, Công bộ Viên ngoại lang, Đồng tri Thẩm hình viện sự, Thượng khinh xa đô úy, Kim tử ngư đại, vâng sắc chỉ viết chữ
 
 `,
-    },
+  },
     desc: "A monumental Lý dynasty stele erected in 1121, it commemorates the construction of the pagoda's main tower.",
   },
     {
@@ -4434,7 +4433,7 @@ Lý Bảo Cung giữ chức Hữu thị lang, Thượng thư, Công bộ Viên n
     name: "Sáu tượng Kim Cương chùa Đọi Sơn",
     english: "Six Vajrapani Guardian Statues, Doi Son Pagoda",
     location: "Chùa Đọi Sơn, thị xã Duy Tiên, tỉnh Hà Nam",
-    lat: 20.585257032168478, lng: 105.97632098524893, 
+    lat: 20.584666401385462, lng: 105.97506476940512, 
     category: "religious", 
     badge: "Lý Dynasty Statue", 
     year: "Lý", 

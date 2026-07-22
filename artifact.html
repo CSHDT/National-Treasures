@@ -1134,7 +1134,7 @@ renderArtifact();
             ${isVI ? '📜 Nguyên văn chữ Hán. Đọc từ phải sang trái, từ trên xuống dưới theo chiều dọc truyền thống.'
                    : '📜 Original Chinese characters. Traditionally read right-to-left, top-to-bottom.'}
           </div>
-          <div class="han-text">${escapeHTML(content)}</div>`;
+          <div class="han-text">${renderSafeScriptMarkup(content)}</div>`;
       }
     }
 
@@ -1152,7 +1152,7 @@ renderArtifact();
             ${isVI ? '📖 Âm đọc Hán-Việt của văn bản gốc.'
                    : '📖 Sino-Vietnamese reading of the original text.'}
           </div>
-          <div class="hanvan-text">${escapeHTML(content)}</div>`;
+          <div class="hanvan-text">${renderSafeScriptMarkup(content)}</div>`;
       }
     }
 
@@ -1178,7 +1178,7 @@ renderArtifact();
         ${footnotes.map((def, i) => def ? `
           <div class="footnote-item">
             <span class="footnote-num">[${i}]</span>
-            <span>${escapeHTML(def)}</span>
+            <span>${renderSafeScriptMarkup(def)}</span>
           </div>` : '').join('')}
       </div>`;
     }
@@ -1292,6 +1292,10 @@ renderArtifact();
   /* ── HELPERS ── */
   function escapeHTML(str) {
     return (str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function renderSafeScriptMarkup(str) {
+    return escapeHTML(str).replace(/&lt;(\/?(?:strong|em|b|i|br))&gt;/gi, (_, tag) => `<${tag}>`);
   }
 
   function emptyNote(title, sub) {
