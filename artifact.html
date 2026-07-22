@@ -350,11 +350,23 @@
       white-space:pre-wrap;
     }
 
-    /* Tiếng Việt — annotated Vietnamese */
-    .viet-text {
-      font-size:15px; line-height:2; color:var(--text);
-      white-space:pre-wrap;
-    }
+  /* Tiếng Việt — annotated Vietnamese */
+  .viet-text {
+    font-size:15px; line-height:2; color:var(--text);
+    white-space:pre-wrap;
+  }
+  .viet-col-pair {
+    display:grid; grid-template-columns:auto 1fr;
+    gap:0 28px; margin:2px 0; align-items:start;
+  }
+  .viet-col-left {
+    white-space:nowrap; font-style:italic; color:var(--heading);
+    padding-right:12px;
+  }
+  .viet-col-right {
+    font-style:normal; color:var(--text);
+  }
+  .viet-col-pair + br { display:none; }
     /* annotatable word — {word|note} rendered as: */
     .annotated {
       color:var(--red); border-bottom:1.5px dotted var(--red);
@@ -1092,7 +1104,7 @@ renderArtifact();
 
     /* render {word|note} spans */
     text = text.replace(/\{([^|{}]+)\|([^{}]+)\}/g, (_, word, note) => {
-      const safe = note.replace(/"/g, '&quot;');
+      const safe = note.replace(/"/g, '"');
       return `<span class="annotated" data-note="${safe}">${word}</span>`;
     });
 
@@ -1100,6 +1112,23 @@ renderArtifact();
     text = text.replace(/\[(\d+)\]/g, (_, n) =>
       `<sup class="footnote-ref" data-fn="${n}" style="color:var(--red);cursor:pointer;font-size:0.7em">[${n}]</sup>`
     );
+
+    /* Convert tab-separated two-column lines into aligned grid pairs */
+    /* Lines like: "Rất diệu rất tĩnh,\t\t[Cái đạo]..." */
+    const lines = text.split('\n');
+    const processed = lines.map(line => {
+      /* Check if line has tab-separated content (two columns) */
+      const tabMatch = line.match(/^(.+?)\t+\t+(.+)$/);
+      if (tabMatch) {
+        const leftCol = tabMatch[1].trim();
+        const rightCol = tabMatch[2].trim();
+        if (leftCol && rightCol) {
+          return `<div class="viet-col-pair"><span class="viet-col-left">${leftCol}</span><span class="viet-col-right">${rightCol}</span></div>`;
+        }
+      }
+      return line;
+    });
+    text = processed.join('\n');
 
     /* preserve line breaks */
     text = text.replace(/\n/g, '<br>');
